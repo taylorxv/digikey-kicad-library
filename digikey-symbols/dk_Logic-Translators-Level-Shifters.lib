@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF SN74LVC1T45DBVR U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
 F1 "SN74LVC1T45DBVR" -50 450 60 H V R C N N
-F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1t45" 200 300 60 H I L C N N
-F4 "296-16843-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN74LVC1T45DBVR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Translators, Level Shifters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1t45" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN74LVC1T45DBVR/296-16843-1-ND/639459" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRNSLTR BIDIRECTIONAL SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-6" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1t45" 600 300 60 H I L C N N
+F4 "296-16843-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN74LVC1T45DBVR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Logic - Translators, Level Shifters" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1t45" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN74LVC1T45DBVR/296-16843-1-ND/639459" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRNSLTR BIDIRECTIONAL SOT23-6" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 300 200 -300 0 1 0 f
 P 2 0 1 0 -125 0 -75 0 N
@@ -41,17 +41,17 @@ ENDDEF
 DEF TXB0108PWR U 0 20 Y Y 1 F N
 F0 "U" -250 550 60 H V C C N N
 F1 "TXB0108PWR" -150 650 60 H V R C N N
-F2 "digikey-footprints:TSSOP-20_W4.4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0108" 200 300 60 H I L C N N
-F4 "296-21527-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TXB0108PWR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Translators, Level Shifters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0108" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TXB0108PWR/296-21527-1-ND/1305700" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRNSLTR BIDIRECTIONAL 20TSSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-20_W4.4mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0108" 600 300 60 H I L C N N
+F4 "296-21527-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TXB0108PWR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Logic - Translators, Level Shifters" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0108" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TXB0108PWR/296-21527-1-ND/1305700" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRNSLTR BIDIRECTIONAL 20TSSOP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 500 200 -600 0 1 0 f
 P 2 0 1 0 -200 -400 -100 -400 N
@@ -130,17 +130,17 @@ ENDDEF
 DEF TXB0104PWR U 0 20 Y Y 1 F N
 F0 "U" -250 450 60 H V C C N N
 F1 "TXB0104PWR" -150 550 60 H V R C N N
-F2 "digikey-footprints:TSSOP-14_W4.4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0104" 200 300 60 H I L C N N
-F4 "296-21929-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TXB0104PWR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Translators, Level Shifters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0104" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TXB0104PWR/296-21929-1-ND/1629282" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRNSLTR BIDIRECTIONAL 14TSSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-14_W4.4mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0104" 600 300 60 H I L C N N
+F4 "296-21929-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TXB0104PWR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Logic - Translators, Level Shifters" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0104" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TXB0104PWR/296-21929-1-ND/1629282" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRNSLTR BIDIRECTIONAL 14TSSOP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 400 200 -400 0 1 0 f
 P 2 0 1 0 -200 -100 -125 -100 N
@@ -189,17 +189,17 @@ ENDDEF
 DEF PCA9306D_118 U 0 20 Y Y 1 F N
 F0 "U" -200 450 60 H V C C N N
 F1 "PCA9306D_118" -100 550 60 H V R C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 200 300 60 H I L C N N
-F4 "568-4215-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PCA9306D,118" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Translators, Level Shifters" 200 700 60 H I L CNN "Family"
-F8 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/PCA9306D,118/568-4215-1-ND/1638362" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRNSLTR BIDIRECTIONAL 8SO" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 500 200 60 H I L C N N
+F3 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 500 300 60 H I L C N N
+F4 "568-4215-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "PCA9306D,118" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Logic - Translators, Level Shifters" 500 700 60 H I L CNN "Family"
+F8 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/PCA9306D,118/568-4215-1-ND/1638362" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRNSLTR BIDIRECTIONAL 8SO" 500 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -300 400 200 -200 0 1 0 f
 X GND 1 0 -300 100 U 50 50 1 1 W

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF JS202011SCQN S 0 0 Y Y 1 F N
 F0 "S" -150 325 50 H V C C N N
 F1 "JS202011SCQN" 0 -450 50 H V C C N N
-F2 "digikey-footprints:Switch_Slide_JS202011SCQN" 200 200 50 H I L C N N
-F3 "https://www.ckswitches.com/media/1422/js.pdf" 200 300 60 H I L C N N
-F4 "401-2002-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "JS202011SCQN" 200 500 60 H I L CNN "MPN"
-F6 "Switches" 200 600 60 H I L CNN "Category"
-F7 "Slide Switches" 200 700 60 H I L CNN "Family"
-F8 "https://www.ckswitches.com/media/1422/js.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/c-k/JS202011SCQN/401-2002-1-ND/1640098" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SWITCH SLIDE DPDT 300MA 6V" 200 1000 60 H I L CNN "Description"
-F11 "C&K" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Switch_Slide_JS202011SCQN" 500 200 50 H I L C N N
+F3 "https://www.ckswitches.com/media/1422/js.pdf" 500 300 60 H I L C N N
+F4 "401-2002-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "JS202011SCQN" 500 500 60 H I L CNN "MPN"
+F6 "Switches" 500 600 60 H I L CNN "Category"
+F7 "Slide Switches" 500 700 60 H I L CNN "Family"
+F8 "https://www.ckswitches.com/media/1422/js.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/c-k/JS202011SCQN/401-2002-1-ND/1640098" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH SLIDE DPDT 300MA 6V" 500 1000 60 H I L CNN "Description"
+F11 "C&K" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 C -100 -200 18 0 1 0 F
 C -100 200 18 0 1 0 F
@@ -49,17 +49,17 @@ ENDDEF
 DEF EG1218 S 0 0 Y Y 1 F N
 F0 "S" -150 90 50 H V C C N N
 F1 "EG1218" 0 -210 50 H V C C N N
-F2 "digikey-footprints:Switch_Slide_11.6x4mm_EG1218" 200 200 50 H I L C N N
-F3 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 200 300 60 H I L C N N
-F4 "EG1903-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "EG1218" 200 500 60 H I L CNN "MPN"
-F6 "Switches" 200 600 60 H I L CNN "Category"
-F7 "Slide Switches" 200 700 60 H I L CNN "Family"
-F8 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/e-switch/EG1218/EG1903-ND/101726" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SWITCH SLIDE SPDT 200MA 30V" 200 1000 60 H I L CNN "Description"
-F11 "E-Switch" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Switch_Slide_11.6x4mm_EG1218" 500 200 50 H I L C N N
+F3 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 500 300 60 H I L C N N
+F4 "EG1903-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "EG1218" 500 500 60 H I L CNN "MPN"
+F6 "Switches" 500 600 60 H I L CNN "Category"
+F7 "Slide Switches" 500 700 60 H I L CNN "Family"
+F8 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/e-switch/EG1218/EG1903-ND/101726" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH SLIDE SPDT 200MA 30V" 500 1000 60 H I L CNN "Description"
+F11 "E-Switch" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 C -90 0 14 0 1 0 F
 C 90 -100 14 0 1 0 F

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF RB1-125BAG1A U 0 40 Y Y 1 F N
 F0 "J" -550 50 50 H V L C N N
 F1 "RB1-125BAG1A" -250 50 50 H V L C N N
-F2 "digikey-footprints:RJ45_Female_RB1-125BAG1A" 200 200 60 H I L C N N
-F3 "https://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/" 200 300 60 H I L C N N
-F4 "1278-1011-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "RB1-125BAG1A" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Modular Connectors - Jacks With Magnetics" 200 700 60 H I L CNN "Family"
-F8 "https://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/wiznet/RB1-125BAG1A/1278-1011-ND/3829637" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "CONN MAGJACK 1PORT 100 BASE-T" 200 1000 60 H I L CNN "Description"
-F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:RJ45_Female_RB1-125BAG1A" 900 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/WIZnet%20PDFs/RB1-125BAG1A_ApprovalSheet.pdf" 900 300 60 H I L C N N
+F4 "1278-1011-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "RB1-125BAG1A" 900 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 900 600 60 H I L CNN "Category"
+F7 "Modular Connectors - Jacks With Magnetics" 900 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/WIZnet%20PDFs/RB1-125BAG1A_ApprovalSheet.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/wiznet/RB1-125BAG1A/1278-1011-ND/3829637" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MAGJACK 1PORT 100 BASE-T" 900 1000 60 H I L CNN "Description"
+F11 "WIZnet" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -400 400 500 -325 1 1 10 f
 S -310 350 -290 270 1 1 0 N
@@ -77,17 +77,17 @@ ENDDEF
 DEF ARJC02-111008B J 0 1 Y Y 1 F N
 F0 "J" -405 360 50 H V R C N N
 F1 "ARJC02-111008B" 34 -114 50 H V C C N N
-F2 "digikey-footprints:Ethernet_Jack_ARJC02-111008B" 200 200 50 H I L C N N
-F3 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 300 60 H I L C N N
-F4 "535-12605-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ARJC02-111008B" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Modular Connectors - Jacks With Magnetics" 200 700 60 H I L CNN "Family"
-F8 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/abracon-llc/ARJC02-111008B/535-12605-ND/4696789" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "CONN MAGJACK 1PORT 100 BASE-TX" 200 1000 60 H I L CNN "Description"
-F11 "Abracon LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Ethernet_Jack_ARJC02-111008B" 900 200 50 H I L C N N
+F3 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 900 300 60 H I L C N N
+F4 "535-12605-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "ARJC02-111008B" 900 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 900 600 60 H I L CNN "Category"
+F7 "Modular Connectors - Jacks With Magnetics" 900 700 60 H I L CNN "Family"
+F8 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/abracon-llc/ARJC02-111008B/535-12605-ND/4696789" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MAGJACK 1PORT 100 BASE-TX" 900 1000 60 H I L CNN "Description"
+F11 "Abracon LLC" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -400 300 500 -425 0 1 10 f
 S -310 250 -290 170 0 1 0 N

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF TMC2208-LA-T U 0 40 Y Y 1 F N
 F0 "U" -50 750 60 H V C C N N
 F1 "TMC2208-LA-T" 200 -500 60 V V L C N N
-F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_datasheet_Rev1.05.pdf" 200 300 60 H I L C N N
-F4 "1460-1184-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TMC2208-LA-T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_datasheet_Rev1.05.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/trinamic-motion-control-gmbh/TMC2208-LA-T/1460-1184-1-ND/6572871" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTR DRV BIPOLAR 5.5-36V 28QFN" 200 1000 60 H I L CNN "Description"
-F11 "Trinamic Motion Control GmbH" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 1100 200 60 H I L C N N
+F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_datasheet_Rev1.05.pdf" 1100 300 60 H I L C N N
+F4 "1460-1184-1-ND" 1100 400 60 H I L CNN "Digi-Key_PN"
+F5 "TMC2208-LA-T" 1100 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1100 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 1100 700 60 H I L CNN "Family"
+F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_datasheet_Rev1.05.pdf" 1100 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/trinamic-motion-control-gmbh/TMC2208-LA-T/1460-1184-1-ND/6572871" 1100 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTR DRV BIPOLAR 5.5-36V 28QFN" 1100 1000 60 H I L CNN "Description"
+F11 "Trinamic Motion Control GmbH" 1100 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1100 1200 60 H I L CNN "Status"
 DRAW
 S -200 700 700 -800 0 1 0 f
 X OB2 1 800 500 100 L 50 50 1 1 O
@@ -56,17 +56,17 @@ ENDDEF
 DEF DRV8825PWPR U 0 40 Y Y 1 F N
 F0 "U" -200 650 60 H V C C N N
 F1 "DRV8825PWPR" 100 -800 60 V V L C N N
-F2 "digikey-footprints:TSSOP-28-1EP_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 200 300 60 H I L C N N
-F4 "296-29503-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DRV8825PWPR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/DRV8825PWPR/296-29503-1-ND/2749200" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTR DRVR BIPLR 8.2-45V 28SSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-28-1EP_W4.40mm" 900 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 900 300 60 H I L C N N
+F4 "296-29503-1-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "DRV8825PWPR" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 900 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/DRV8825PWPR/296-29503-1-ND/2749200" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTR DRVR BIPLR 8.2-45V 28SSOP" 900 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -300 600 500 -1100 0 1 0 f
 X CP1 1 -400 -900 100 R 50 50 1 1 P
@@ -106,17 +106,17 @@ ENDDEF
 DEF DRV8871DDA U 0 20 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "DRV8871DDA" -100 250 60 H V R C N N
-F2 "digikey-footprints:PowerSOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 200 300 60 H I L C N N
-F4 "296-44509-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DRV8871DDA" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/DRV8871DDA/296-44509-5-ND/6110574" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOTOR DRVR UNIPLR 8SO PWRPAD" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:PowerSOIC-8_W3.9mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 700 300 60 H I L C N N
+F4 "296-44509-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "DRV8871DDA" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/DRV8871DDA/296-44509-5-ND/6110574" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOTOR DRVR UNIPLR 8SO PWRPAD" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 100 300 -300 0 1 0 f
 X GND 1 -100 -400 100 U 50 50 1 1 W
@@ -136,17 +136,17 @@ ENDDEF
 DEF L293DNE U 0 0 Y Y 2 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "L293DNE" 300 -300 60 H V L C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 200 300 60 H I L C N N
-F4 "296-9518-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L293DNE" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/L293DNE/296-9518-5-ND/379724" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTR DRV BIPOLAR 4.5-36V 16DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 600 300 60 H I L C N N
+F4 "296-9518-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "L293DNE" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/L293DNE/296-9518-5-ND/379724" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTR DRV BIPOLAR 4.5-36V 16DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C 50 0 10 0 1 0 F
 S 200 -200 -100 200 0 1 0 f
@@ -192,17 +192,17 @@ ENDDEF
 DEF L293D U 0 40 Y Y 1 F N
 F0 "U" -200 450 60 H V C C N N
 F1 "L293D" 300 -600 60 H V L C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 300 60 H I L C N N
-F4 "497-2936-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L293D" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L293D/497-2936-5-ND/634700" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTRDRV BIPLR 4.5-36V 16PWRDIP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 700 200 60 H I L C N N
+F3 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 700 300 60 H I L C N N
+F4 "497-2936-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "L293D" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 700 700 60 H I L CNN "Family"
+F8 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L293D/497-2936-5-ND/634700" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTRDRV BIPLR 4.5-36V 16PWRDIP" 700 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 400 300 -500 0 1 0 f
 X EN1 1 -300 -100 100 R 50 50 1 1 I
@@ -229,17 +229,17 @@ ENDDEF
 DEF A3967SLBTR-T U 0 40 Y Y 1 F N
 F0 "U" -300 750 60 H V C C N N
 F1 "A3967SLBTR-T" 0 -400 60 V V L C N N
-F2 "digikey-footprints:SOIC-24_W7.50mm" 200 200 60 H I L C N N
-F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 300 60 H I L C N N
-F4 "620-1140-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "A3967SLBTR-T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/allegro-microsystems-llc/A3967SLBTR-T/620-1140-1-ND/1090383" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTR DRV BIPOLAR 3-5.5V 24SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Allegro MicroSystems, LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-24_W7.50mm" 800 200 60 H I L C N N
+F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 800 300 60 H I L C N N
+F4 "620-1140-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "A3967SLBTR-T" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 800 700 60 H I L CNN "Family"
+F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/allegro-microsystems-llc/A3967SLBTR-T/620-1140-1-ND/1090383" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTR DRV BIPOLAR 3-5.5V 24SOIC" 800 1000 60 H I L CNN "Description"
+F11 "Allegro MicroSystems, LLC" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 700 400 -700 0 1 0 f
 X REF 1 -500 600 100 R 50 50 1 1 I
@@ -274,17 +274,17 @@ ENDDEF
 DEF A4988SETTR-T U 0 40 Y Y 1 F N
 F0 "U" -300 850 60 H V C C N N
 F1 "A4988SETTR-T" 0 -100 60 V V C C N N
-F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 300 60 H I L C N N
-F4 "620-1343-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "A4988SETTR-T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MTR DRVR BIPOLAR 3-5.5V 28QFN" 200 1000 60 H I L CNN "Description"
-F11 "Allegro MicroSystems, LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 800 200 60 H I L C N N
+F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 800 300 60 H I L C N N
+F4 "620-1343-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "A4988SETTR-T" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 800 700 60 H I L CNN "Family"
+F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MTR DRVR BIPOLAR 3-5.5V 28QFN" 800 1000 60 H I L CNN "Description"
+F11 "Allegro MicroSystems, LLC" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 800 400 -900 0 1 0 f
 X OUT2B 1 500 -100 100 L 50 50 1 1 O
@@ -324,17 +324,17 @@ ENDDEF
 DEF TB6612FNG_C_8_EL U 0 40 Y Y 1 F N
 F0 "U" -500 450 60 H V C C N N
 F1 "TB6612FNG_C_8_EL" 200 -600 60 H V L C N N
-F2 "digikey-footprints:LSSOP-24_W5.6mm" 200 200 60 H I L C N N
-F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG" 200 300 60 H I L C N N
-F4 "TB6612FNGC8ELCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TB6612FNG,C,8,EL" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/toshiba-semiconductor-and-storage/TB6612FNG,C,8,EL/TB6612FNGC8ELCT-ND/1730134" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOTOR DRIVER 2.7V-5.5V 24SSOP" 200 1000 60 H I L CNN "Description"
-F11 "Toshiba Semiconductor and Storage" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LSSOP-24_W5.6mm" 800 200 60 H I L C N N
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG" 800 300 60 H I L C N N
+F4 "TB6612FNGC8ELCT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "TB6612FNG,C,8,EL" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 800 700 60 H I L CNN "Family"
+F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/toshiba-semiconductor-and-storage/TB6612FNG,C,8,EL/TB6612FNGC8ELCT-ND/1730134" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOTOR DRIVER 2.7V-5.5V 24SSOP" 800 1000 60 H I L CNN "Description"
+F11 "Toshiba Semiconductor and Storage" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -600 400 400 -500 0 1 0 f
 X AO1 1 500 300 100 L 50 50 1 1 O

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF ICL7107CPLZ U 0 40 Y Y 1 F N
 F0 "U" -350 1300 60 H V L C N N
 F1 "ICL7107CPLZ" 100 0 60 V V C C N N
-F2 "digikey-footprints:DIP-40_W15.24mm" 200 200 60 H I L C N N
-F3 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 200 300 60 H I L C N N
-F4 "ICL7107CPLZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ICL7107CPLZ" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Data Acquisition - ADCs/DACs - Special Purpose" 200 700 60 H I L CNN "Family"
-F8 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/renesas-electronics-america-inc/ICL7107CPLZ/ICL7107CPLZ-ND/821475" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ADC 3.5DIGIT LCD/LED 40DIP" 200 1000 60 H I L CNN "Description"
-F11 "Renesas Electronics America Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-40_W15.24mm" 900 200 60 H I L C N N
+F3 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 900 300 60 H I L C N N
+F4 "ICL7107CPLZ-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "ICL7107CPLZ" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Data Acquisition - ADCs/DACs - Special Purpose" 900 700 60 H I L CNN "Family"
+F8 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/renesas-electronics-america-inc/ICL7107CPLZ/ICL7107CPLZ-ND/821475" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DISPLAY DRIVER 3.5DIGIT 40DIP" 900 1000 60 H I L CNN "Description"
+F11 "Renesas Electronics America Inc." 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -350 1250 450 -1150 0 1 0 f
 X V+ 1 0 1400 150 D 50 50 1 1 W

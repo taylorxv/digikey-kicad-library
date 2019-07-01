@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF IXDN609SI U 0 0 Y Y 1 F N
 F0 "U" -250 250 60 H V C C N N
 F1 "IXDN609SI" 190 -210 60 H V L C N N
-F2 "digikey-footprints:SOIC-8-1EP_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf" 200 300 60 H I L C N N
-F4 "CLA364-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "IXDN609SI" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/ixys-integrated-circuits-division/IXDN609SI/CLA364-ND/2428208" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC GATE DVR 9A NON-INV 8-SOIC" 200 1000 60 H I L CNN "Description"
-F11 "IXYS Integrated Circuits Division" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8-1EP_W3.9mm" 600 200 60 H I L C N N
+F3 "http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf" 600 300 60 H I L C N N
+F4 "CLA364-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "IXDN609SI" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 600 700 60 H I L CNN "Family"
+F8 "http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ixys-integrated-circuits-division/IXDN609SI/CLA364-ND/2428208" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC GATE DVR 9A NON-INV 8-SOIC" 600 1000 60 H I L CNN "Description"
+F11 "IXYS Integrated Circuits Division" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C 60 0 10 0 1 0 N
 C 100 0 10 0 1 0 F
@@ -42,17 +42,17 @@ ENDDEF
 DEF FAN3111ESX U 0 0 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "FAN3111ESX" 100 -250 60 H V L C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 200 300 60 H I L C N N
-F4 "FAN3111ESXCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "FAN3111ESX" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/FAN3111ESX/FAN3111ESXCT-ND/2036919" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC GATE DVR SGL 1A EXTER SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-753" 600 200 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 600 300 60 H I L C N N
+F4 "FAN3111ESXCT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "FAN3111ESX" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 600 700 60 H I L CNN "Family"
+F8 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/FAN3111ESX/FAN3111ESXCT-ND/2036919" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC GATE DVR SGL 1A EXTER SOT23-5" 600 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -150 0 1 0 f
 P 2 0 1 0 150 0 90 0 N
@@ -71,17 +71,17 @@ ENDDEF
 DEF IR2110PBF U 0 20 Y Y 1 F N
 F0 "U" -300 400 60 H V C C N N
 F1 "IR2110PBF" 550 -500 60 H V C C N N
-F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 300 60 H I L C N N
-F4 "IR2110PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "IR2110PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/infineon-technologies/IR2110PBF/IR2110PBF-ND/811566" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC DRIVER HIGH/LOW SIDE 14DIP" 200 1000 60 H I L CNN "Description"
-F11 "Infineon Technologies" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-14_W3mm" 700 200 60 H I L C N N
+F3 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 700 300 60 H I L C N N
+F4 "IR2110PBF-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "IR2110PBF" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 700 700 60 H I L CNN "Family"
+F8 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/infineon-technologies/IR2110PBF/IR2110PBF-ND/811566" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DRIVER HIGH/LOW SIDE 14DIP" 700 1000 60 H I L CNN "Description"
+F11 "Infineon Technologies" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 250 250 -350 0 1 0 f
 X LO 1 400 -200 150 L 50 50 1 1 O
@@ -106,17 +106,17 @@ ENDDEF
 DEF IR2110STRPBF U 0 30 Y Y 1 F N
 F0 "U" -300 400 60 H V C C N N
 F1 "IR2110STRPBF" 200 -450 60 H V L C N N
-F2 "digikey-footprints:SOIC-16_W7.5mm" 200 200 60 H I L C N N
-F3 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 300 60 H I L C N N
-F4 "IR2110SPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "IR2110STRPBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/infineon-technologies/IR2110STRPBF/IR2110SPBFCT-ND/812615" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC DRIVER HIGH/LOW SIDE 16SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Infineon Technologies" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-16_W7.5mm" 700 200 60 H I L C N N
+F3 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 700 300 60 H I L C N N
+F4 "IR2110SPBFCT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "IR2110STRPBF" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 700 700 60 H I L CNN "Family"
+F8 "https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/infineon-technologies/IR2110STRPBF/IR2110SPBFCT-ND/812615" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DRIVER HIGH/LOW SIDE 16SOIC" 700 1000 60 H I L CNN "Description"
+F11 "Infineon Technologies" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 350 250 -350 0 1 0 f
 X LO 1 400 -100 150 L 50 50 1 1 O
@@ -143,17 +143,17 @@ ENDDEF
 DEF LT1910ES8_PBF U 0 40 Y Y 1 F N
 F0 "U" -225 225 60 H V C C N N
 F1 "LT1910ES8_PBF" 200 -400 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/3996" 200 300 60 H I L C N N
-F4 "LT1910ES8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LT1910ES8#PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/3996" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LT1910ES8-PBF/LT1910ES8-PBF-ND/890353" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOSFET DRIVER HIGH-SIDE 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 700 200 60 H I L C N N
+F3 "http://www.linear.com/docs/3996" 700 300 60 H I L C N N
+F4 "LT1910ES8#PBF-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "LT1910ES8#PBF" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/3996" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LT1910ES8-PBF/LT1910ES8-PBF-ND/890353" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOSFET DRIVER HIGH-SIDE 8SOIC" 700 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 150 250 -350 0 1 0 f
 X GND 1 100 -500 150 U 50 50 1 1 W
@@ -172,17 +172,17 @@ ENDDEF
 DEF MCP1402T-E_OT U 0 20 Y Y 1 F N
 F0 "U" -225 275 60 H V C C N N
 F1 "MCP1402T-E_OT" 100 -350 60 H V L C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en530890" 200 300 60 H I L C N N
-F4 "MCP1402T-E/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MCP1402T-E/OT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en530890" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/MCP1402T-E-OT/MCP1402T-E-OTCT-ND/1956554" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOSFET DRIVER 500MA SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-753" 700 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en530890" 700 300 60 H I L C N N
+F4 "MCP1402T-E/OTCT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP1402T-E/OT" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en530890" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP1402T-E-OT/MCP1402T-E-OTCT-ND/1956554" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOSFET DRIVER 500MA SOT23-5" 700 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 150 250 -250 0 1 0 f
 X GND 1 -100 -400 150 U 50 50 1 1 W
@@ -198,17 +198,17 @@ ENDDEF
 DEF MCP1416T-E_OT U 0 20 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MCP1416T-E_OT" 100 -250 60 H V L C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536128" 200 300 60 H I L C N N
-F4 "MCP1416T-E/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MCP1416T-E/OT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536128" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/MCP1416T-E-OT/MCP1416T-E-OTCT-ND/1963940" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOSFET DVR 1.5A HS SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-753" 700 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536128" 700 300 60 H I L C N N
+F4 "MCP1416T-E/OTCT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP1416T-E/OT" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Gate Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536128" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP1416T-E-OT/MCP1416T-E-OTCT-ND/1963940" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOSFET DVR 1.5A HS SOT23-5" 700 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 250 250 -150 0 1 0 f
 X NC 1 -250 -50 150 R 50 50 1 1 N N

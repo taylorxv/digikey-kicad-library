@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF JS5208 S 0 0 Y Y 1 F N
 F0 "S" -200 300 60 H V L C N N
 F1 "JS5208" 0 -350 60 H V C C N N
-F2 "digikey-footprints:Switch_Nav_12.4x12.4mm_SMD_JS5208" 200 200 60 H I L C N N
-F3 "http://spec_sheets.e-switch.com/specs/P200020.pdf" 200 300 60 H I L C N N
-F4 "EG4561-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "JS5208" 200 500 60 H I L CNN "MPN"
-F6 "Switches" 200 600 60 H I L CNN "Category"
-F7 "Navigation Switches, Joystick" 200 700 60 H I L CNN "Family"
-F8 "http://spec_sheets.e-switch.com/specs/P200020.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/e-switch/JS5208/EG4561-ND/1739634" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SWITCH NAVIGATION 20MA 15V" 200 1000 60 H I L CNN "Description"
-F11 "E-Switch" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Switch_Nav_12.4x12.4mm_SMD_JS5208" 700 200 60 H I L C N N
+F3 "http://spec_sheets.e-switch.com/specs/P200020.pdf" 700 300 60 H I L C N N
+F4 "EG4561-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "JS5208" 700 500 60 H I L CNN "MPN"
+F6 "Switches" 700 600 60 H I L CNN "Category"
+F7 "Navigation Switches, Joystick" 700 700 60 H I L CNN "Family"
+F8 "http://spec_sheets.e-switch.com/specs/P200020.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/e-switch/JS5208/EG4561-ND/1739634" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH NAVIGATION 20MA 15V" 700 1000 60 H I L CNN "Description"
+F11 "E-Switch" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 C -125 0 25 0 1 0 F
 C 0 -125 25 0 1 0 F

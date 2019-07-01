@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF VAOS-C402S9-BW_50 DS 0 10 Y Y 1 F N
 F0 "DS" -300 450 60 H V L C N N
 F1 "VAOS-C402S9-BW_50" 150 -550 60 H V L C N N
-F2 "digikey-footprints:LED_7Seg_VAOS-C402S9-BW_50" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)402S9-BW50.pdf" 200 300 60 H I L C N N
-F4 "VAOS-C402S9-BW/50-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "VAOS-C402S9-BW/50" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Display Modules - LED Character and Numeric" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)402S9-BW50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/visual-communications-company-vcc/VAOS-C402S9-BW-50/VAOS-C402S9-BW-50-ND/5157015" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "0.4 SPRBRHT RED CMN CATHODE" 200 1000 60 H I L CNN "Description"
-F11 "Visual Communications Company - VCC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_7Seg_VAOS-C402S9-BW_50" 700 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)402S9-BW50.pdf" 700 300 60 H I L C N N
+F4 "VAOS-C402S9-BW/50-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "VAOS-C402S9-BW/50" 700 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 700 600 60 H I L CNN "Category"
+F7 "Display Modules - LED Character and Numeric" 700 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)402S9-BW50.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/visual-communications-company-vcc/VAOS-C402S9-BW-50/VAOS-C402S9-BW-50-ND/5157015" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "0.4 SPRBRHT RED CMN CATHODE" 700 1000 60 H I L CNN "Description"
+F11 "Visual Communications Company - VCC" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 X COM 3 -100 -600 100 U 50 50 1 0 P
 X COM 14 100 -600 100 U 50 50 1 0 P
@@ -53,17 +53,17 @@ ENDDEF
 DEF VAOS-C561S9-BW_43 DS 0 10 Y Y 1 F N
 F0 "DS" -300 450 60 H V L C N N
 F1 "VAOS-C561S9-BW_43" 150 -550 60 H V L C N N
-F2 "digikey-footprints:DIP-10_W10.16mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)561S9-BW43.pdf" 200 300 60 H I L C N N
-F4 "VAOS-C561S9-BW/43-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "VAOS-C561S9-BW/43" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Display Modules - LED Character and Numeric" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)561S9-BW43.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/visual-communications-company-vcc/VAOS-C561S9-BW-43/VAOS-C561S9-BW-43-ND/5157016" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "0.56 SPRBRHT RED CMN CATHODE" 200 1000 60 H I L CNN "Description"
-F11 "Visual Communications Company - VCC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-10_W10.16mm" 700 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)561S9-BW43.pdf" 700 300 60 H I L C N N
+F4 "VAOS-C561S9-BW/43-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "VAOS-C561S9-BW/43" 700 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 700 600 60 H I L CNN "Category"
+F7 "Display Modules - LED Character and Numeric" 700 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)561S9-BW43.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/visual-communications-company-vcc/VAOS-C561S9-BW-43/VAOS-C561S9-BW-43-ND/5157016" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "0.56 SPRBRHT RED CMN CATHODE" 700 1000 60 H I L CNN "Description"
+F11 "Visual Communications Company - VCC" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 X COM 3 -100 -600 100 U 50 50 1 0 P
 X COM 8 100 -600 100 U 50 50 1 0 P

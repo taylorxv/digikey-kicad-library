@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 74HC595D_118 U 0 40 Y Y 1 F N
 F0 "U" -297 38 60 H V L C N N
 F1 "74HC595D_118" 100 -500 60 V V C C N N
-F2 "digikey-footprints:SOIC-16_W3.90mm" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" 200 300 60 H I L C N N
-F4 "1727-2821-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "74HC595D,118" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Shift Registers" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/74HC595D,118/1727-2821-1-ND/763394" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC SHIFT REGISTER 8BIT 16SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-16_W3.90mm" 800 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" 800 300 60 H I L C N N
+F4 "1727-2821-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "74HC595D,118" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Logic - Shift Registers" 800 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/74HC595D,118/1727-2821-1-ND/763394" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC SHIFT REGISTER 8BIT 16SOIC" 800 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 0 400 -1000 0 1 0 f
 X Q1 1 500 -200 100 L 50 50 1 1 O
@@ -43,17 +43,17 @@ ENDDEF
 DEF SN74HC595N U 0 40 Y Y 1 F N
 F0 "U" -450 650 60 H V C C N N
 F1 "SN74HC595N" -150 0 60 V V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc595" 200 300 60 H I L C N N
-F4 "296-1600-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN74HC595N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Shift Registers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc595" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN74HC595N/296-1600-5-ND/277246" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC 8-BIT SHIFT REGISTER 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 500 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc595" 500 300 60 H I L C N N
+F4 "296-1600-5-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN74HC595N" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Logic - Shift Registers" 500 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc595" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN74HC595N/296-1600-5-ND/277246" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC 8-BIT SHIFT REGISTER 16-DIP" 500 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -500 600 100 -500 0 1 0 f
 X QB 1 200 300 100 L 50 50 1 1 O
@@ -80,17 +80,17 @@ ENDDEF
 DEF TPIC6B595N U 0 40 Y Y 1 F N
 F0 "U" -306 45 60 H V L C N N
 F1 "TPIC6B595N" 18 -1047 60 H V L C N N
-F2 "digikey-footprints:DIP-20_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpic6b595" 200 300 60 H I L C N N
-F4 "296-1956-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPIC6B595N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Shift Registers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpic6b595" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPIC6B595N/296-1956-5-ND/277601" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PWR 8-BIT SHIFT REGIS 20-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-20_W7.62mm" 800 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpic6b595" 800 300 60 H I L C N N
+F4 "296-1956-5-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPIC6B595N" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Logic - Shift Registers" 800 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpic6b595" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPIC6B595N/296-1956-5-ND/277601" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PWR 8-BIT SHIFT REGIS 20-DIP" 800 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 0 400 -1000 0 1 0 f
 X NC 1 -300 -600 100 R 50 50 1 1 N N
@@ -121,17 +121,17 @@ ENDDEF
 DEF SN74HC164N U 0 40 Y Y 1 F N
 F0 "U" -205 543 60 H V L C N N
 F1 "SN74HC164N" 100 50 60 V V C C N N
-F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc164" 200 300 60 H I L C N N
-F4 "296-8248-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN74HC164N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Shift Registers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc164" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN74HC164N/296-8248-5-ND/376946" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC 8-BIT SHIFT REGISTER 14-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-14_W3mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc164" 700 300 60 H I L C N N
+F4 "296-8248-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN74HC164N" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "Logic - Shift Registers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc164" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN74HC164N/296-8248-5-ND/376946" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC 8-BIT SHIFT REGISTER 14-DIP" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 500 300 -400 0 1 0 f
 X A 1 -300 200 100 R 50 50 1 1 I
@@ -156,17 +156,17 @@ ENDDEF
 DEF SN74HC165N U 0 40 Y Y 1 F N
 F0 "U" -350 643 60 H V C C N N
 F1 "SN74HC165N" -50 -50 60 V V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc165" 200 300 60 H I L C N N
-F4 "296-8251-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN74HC165N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Logic - Shift Registers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc165" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN74HC165N/296-8251-5-ND/376966" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC 8-BIT SHIFT REGISTER 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc165" 600 300 60 H I L C N N
+F4 "296-8251-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN74HC165N" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Logic - Shift Registers" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc165" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN74HC165N/296-8251-5-ND/376966" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC 8-BIT SHIFT REGISTER 16-DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 600 200 -700 0 1 0 f
 X SH/~LD 1 -500 -300 100 R 50 50 1 1 O

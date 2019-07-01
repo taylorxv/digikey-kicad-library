@@ -1,22 +1,22 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# O128O032DLPP3N0000_NonStock
+# O128O032DLPP3N0000_Obsolete
 #
-DEF O128O032DLPP3N0000_NonStock U 0 40 Y Y 1 F N
+DEF O128O032DLPP3N0000_Obsolete U 0 40 Y Y 1 F N
 F0 "DS" -700 750 60 H V L C N N
-F1 "O128O032DLPP3N0000_NonStock" 150 0 60 V V C C N N
-F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DLPP3N00000.pdf" 200 300 60 V I L C N N
-F4 "541-3473-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "O128O032DLPP3N0000" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Display Modules - LCD, OLED, Graphic" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DLPP3N00000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/vishay-dale/O128O032DLPP3N0000/541-3473-ND/7041844" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "128X32 YELLOW GRAPHIC (COG) OLED" 200 1000 60 H I L CNN "Description"
-F11 "Vishay Dale" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F1 "O128O032DLPP3N0000_Obsolete" 150 0 60 V V C C N N
+F2 "digikey-footprints:OLED_128x32_Folded" 350 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DLPP3N00000.pdf" 350 300 60 V I L C N N
+F4 "541-3473-ND" 350 400 60 H I L CNN "Digi-Key_PN"
+F5 "O128O032DLPP3N0000" 350 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 350 600 60 H I L CNN "Category"
+F7 "Display Modules - LCD, OLED, Graphic" 350 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DLPP3N00000.pdf" 350 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-dale/O128O032DLPP3N0000/541-3473-ND/7041844" 350 900 60 H I L CNN "DK_Detail_Page"
+F10 "128X32 YELLOW GRAPHIC (COG) OLED" 350 1000 60 H I L CNN "Description"
+F11 "Vishay Dale" 350 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 350 1200 60 H I L CNN "Status"
 DRAW
 T 900 -175 -150 60 0 0 0 OLED~128x32 Normal 0 C C
 T 900 -85 -125 60 0 0 0 YELLOW Normal 0 C C
@@ -45,17 +45,17 @@ ENDDEF
 DEF O128O032DSPP3N0000_NonStock U 0 40 Y Y 1 F N
 F0 "DS" -700 750 60 H V L C N N
 F1 "O128O032DSPP3N0000_NonStock" 150 0 60 V V C C N N
-F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DSPP3N00000.pdf" 200 300 60 V I L C N N
-F4 "541-3474-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "O128O032DSPP3N0000" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Display Modules - LCD, OLED, Graphic" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DSPP3N00000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/vishay-dale/O128O032DSPP3N0000/541-3474-ND/7041845" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "128X32 SKY BLUE GRAPHIC (COG) OL" 200 1000 60 H I L CNN "Description"
-F11 "Vishay Dale" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:OLED_128x32_Folded" 350 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DSPP3N00000.pdf" 350 300 60 V I L C N N
+F4 "541-3474-ND" 350 400 60 H I L CNN "Digi-Key_PN"
+F5 "O128O032DSPP3N0000" 350 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 350 600 60 H I L CNN "Category"
+F7 "Display Modules - LCD, OLED, Graphic" 350 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DSPP3N00000.pdf" 350 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-dale/O128O032DSPP3N0000/541-3474-ND/7041845" 350 900 60 H I L CNN "DK_Detail_Page"
+F10 "128X32 SKY BLUE GRAPHIC (COG) OL" 350 1000 60 H I L CNN "Description"
+F11 "Vishay Dale" 350 1100 60 H I L CNN "Manufacturer"
+F12 "Active NonStock" 350 1200 60 H I L CNN "Status"
 DRAW
 T 900 -75 -140 60 0 0 0 BLUE Normal 0 C C
 T 900 -175 -150 60 0 0 0 OLED~128x32 Normal 0 C C
@@ -79,22 +79,22 @@ X Vcc 15 -100 800 100 D 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# O128O032DWPP3N0000_NonStock
+# O128O032DWPP3N0000_Obsolete
 #
-DEF O128O032DWPP3N0000_NonStock U 0 40 Y Y 1 F N
+DEF O128O032DWPP3N0000_Obsolete U 0 40 Y Y 1 F N
 F0 "DS" -700 750 60 H V L C N N
-F1 "O128O032DWPP3N0000_NonStock" 150 0 60 V V C C N N
-F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DWPP3N00000.pdf" 200 300 60 V I L C N N
-F4 "541-3475-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "O128O032DWPP3N0000" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Display Modules - LCD, OLED, Graphic" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DWPP3N00000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/vishay-dale/O128O032DWPP3N0000/541-3475-ND/7041846" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "128X32 WHITE GRAPHIC (COG) OLED" 200 1000 60 H I L CNN "Description"
-F11 "Vishay Dale" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F1 "O128O032DWPP3N0000_Obsolete" 150 0 60 V V C C N N
+F2 "digikey-footprints:OLED_128x32_Folded" 350 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DWPP3N00000.pdf" 350 300 60 V I L C N N
+F4 "541-3475-ND" 350 400 60 H I L CNN "Digi-Key_PN"
+F5 "O128O032DWPP3N0000" 350 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 350 600 60 H I L CNN "Category"
+F7 "Display Modules - LCD, OLED, Graphic" 350 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128O032DWPP3N00000.pdf" 350 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-dale/O128O032DWPP3N0000/541-3475-ND/7041846" 350 900 60 H I L CNN "DK_Detail_Page"
+F10 "128X32 WHITE GRAPHIC (COG) OLED" 350 1000 60 H I L CNN "Description"
+F11 "Vishay Dale" 350 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 350 1200 60 H I L CNN "Status"
 DRAW
 T 900 -175 -150 60 0 0 0 OLED~128x32 Normal 0 C C
 T 900 -80 -155 60 0 0 0 WHITE Normal 0 C C

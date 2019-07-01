@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF SHT15_Obsolete U 0 20 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "SHT15_Obsolete" -150 450 60 H V R C N N
-F2 "digikey-footprints:Humidity_SHT15" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 200 300 60 H I L C N N
-F4 "1649-1003-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SHT15" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/sensirion-ag/SHT15/1649-1003-1-ND/5872285" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR HUMID/TEMP 5V DTL 2% SMD" 200 1000 60 H I L CNN "Description"
-F11 "Sensirion AG" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Humidity_SHT15" 500 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 500 300 60 H I L C N N
+F4 "1649-1003-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "SHT15" 500 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 500 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 500 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sensirion-ag/SHT15/1649-1003-1-ND/5872285" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 5V DTL 2% SMD" 500 1000 60 H I L CNN "Description"
+F11 "Sensirion AG" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 500 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 200 -200 0 1 0 f
 X GND 1 -100 -300 100 U 50 50 1 1 W
@@ -35,17 +35,17 @@ ENDDEF
 DEF HPP845E031R4 U 0 40 Y Y 1 F N
 F0 "U" -200 350 50 H V L C N N
 F1 "HPP845E031R4" 150 -350 50 H V L C N N
-F2 "digikey-footprints:DFN-6_3x3mm_EP1" 200 200 60 H I L C N N
-F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
-F4 "223-1144-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "HPP845E031R4" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E031R4/223-1144-1-ND/3945773" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR HUMID/TEMP 3V I2C 2% SMD" 200 1000 60 H I L CNN "Description"
-F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DFN-6_3x3mm_EP1" 700 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 700 300 60 H I L C N N
+F4 "223-1144-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "HPP845E031R4" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 700 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E031R4/223-1144-1-ND/3945773" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 3V I2C 2% SMD" 700 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 300 300 -300 0 1 0 f
 X DATA 1 400 200 100 L 50 50 1 1 B
@@ -63,17 +63,17 @@ ENDDEF
 DEF HPP845E131R5 U 0 40 Y Y 1 F N
 F0 "U" -400 550 50 H V L C N N
 F1 "HPP845E131R5" 150 200 50 V V C C N N
-F2 "digikey-footprints:6-DFN_3x3mm" 200 200 50 H I L C N N
-F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 300 50 H I L C N N
-F4 "223-1595-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "HPP845E131R5" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E131R5/223-1595-1-ND/5438039" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR HUMID/TEMP 3V I2C 3% SMD" 200 1000 60 H I L CNN "Description"
-F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:6-DFN_3x3mm" 400 200 50 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 400 300 50 H I L C N N
+F4 "223-1595-1-ND" 400 400 60 H I L CNN "Digi-Key_PN"
+F5 "HPP845E131R5" 400 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 400 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 400 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 400 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E131R5/223-1595-1-ND/5438039" 400 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 3V I2C 3% SMD" 400 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 400 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 400 1200 60 H I L CNN "Status"
 DRAW
 A -290 330 50 0 118 0 0 0 N -240 330 -241 340
 A -290 330 50 1800 1682 0 0 0 N -340 330 -339 340
@@ -109,17 +109,17 @@ ENDDEF
 DEF HIH-4030-001 U 0 20 Y Y 1 F N
 F0 "U" 200 350 60 H V C C N N
 F1 "HIH-4030-001" 100 450 60 H V L C N N
-F2 "digikey-footprints:Humidity_HIH-4030" 200 200 60 H I L C N N
-F3 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 200 300 60 H I L C N N
-F4 "480-3166-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "HIH-4030-001" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH-4030-001/480-3166-1-ND/1886071" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR HUMIDITY 5V ANLG 3.5% SMD" 200 1000 60 H I L CNN "Description"
-F11 "Honeywell Sensing and Productivity Solutions" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Humidity_HIH-4030" 700 200 60 H I L C N N
+F3 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 700 300 60 H I L C N N
+F4 "480-3166-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "HIH-4030-001" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 700 700 60 H I L CNN "Family"
+F8 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH-4030-001/480-3166-1-ND/1886071" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMIDITY 5V ANLG 3.5% SMD" 700 1000 60 H I L CNN "Description"
+F11 "Honeywell Sensing and Productivity Solutions" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S 300 300 -100 -100 0 1 0 f
 X GND 1 0 -200 100 U 50 50 1 1 W
@@ -134,17 +134,17 @@ ENDDEF
 DEF HIH6130-021-001 U 0 20 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "HIH6130-021-001" -100 450 60 H V R C N N
-F2 "digikey-footprints:Humidity_HIH61xx" 200 200 60 H I L C N N
-F3 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 200 300 60 H I L C N N
-F4 "480-3651-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "HIH6130-021-001" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH6130-021-001/480-3651-1-ND/2704704" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR HUMID/TEMP 5V I2C 4% SMD" 200 1000 60 H I L CNN "Description"
-F11 "Honeywell Sensing and Productivity Solutions" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Humidity_HIH61xx" 700 200 60 H I L C N N
+F3 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 700 300 60 H I L C N N
+F4 "480-3651-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "HIH6130-021-001" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 700 700 60 H I L CNN "Family"
+F8 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH6130-021-001/480-3651-1-ND/2704704" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 5V I2C 4% SMD" 700 1000 60 H I L CNN "Description"
+F11 "Honeywell Sensing and Productivity Solutions" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 300 -100 0 1 0 f
 X Vcore 1 -100 -200 100 U 50 50 1 1 P
@@ -163,17 +163,17 @@ ENDDEF
 DEF BME280 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "BME280" -100 450 60 H V R C N N
-F2 "digikey-footprints:Pressure_Sensor_LGA-8_2.5x2.5mm_BME280" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf" 200 300 60 H I L C N N
-F4 "828-1063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BME280" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bosch-sensortec/BME280/828-1063-1-ND/6136314" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR PRESSURE HUMIDITY TEMP" 200 1000 60 H I L CNN "Description"
-F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Pressure_Sensor_LGA-8_2.5x2.5mm_BME280" 600 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf" 600 300 60 H I L C N N
+F4 "828-1063-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "BME280" 600 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 600 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 600 700 60 H I L CNN "Family"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BME280/828-1063-1-ND/6136314" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR PRESSURE HUMIDITY TEMP" 600 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S 300 300 -300 -200 0 1 0 f
 X GND 1 0 -300 100 U 50 50 1 1 W

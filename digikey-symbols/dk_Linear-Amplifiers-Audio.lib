@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF TPA2005D1DGNRQ1 U 0 40 Y Y 1 F N
 F0 "U" -400 250 60 H V C C N N
 F1 "TPA2005D1DGNRQ1" -100 -500 60 H V L C N N
-F2 "digikey-footprints:MSOP-8-1EP_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 200 300 60 H I L C N N
-F4 "296-24831-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPA2005D1DGNRQ1" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPA2005D1DGNRQ1/296-24831-1-ND/2094669" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 1.4W D 8MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:MSOP-8-1EP_W3mm" 500 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 500 300 60 H I L C N N
+F4 "296-24831-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPA2005D1DGNRQ1" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 500 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPA2005D1DGNRQ1/296-24831-1-ND/2094669" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 1.4W D 8MSOP" 500 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -500 200 100 -400 0 1 0 f
 X ~Shutdown 1 -600 100 100 R 50 50 1 1 I
@@ -36,17 +36,17 @@ ENDDEF
 DEF TPA2016D2RTJR U 0 40 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "TPA2016D2RTJR" 150 -950 60 H V L C N N
-F2 "digikey-footprints:WQFN-20-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 200 300 60 H I L C N N
-F4 "296-25430-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPA2016D2RTJR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 2.8W D 20QFN" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WQFN-20-1EP_4x4mm" 900 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 900 300 60 H I L C N N
+F4 "296-25430-1-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPA2016D2RTJR" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 900 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 2.8W D 20QFN" 900 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -300 100 500 -900 0 1 0 f
 X INL+ 1 -400 -200 100 R 50 50 1 1 I
@@ -78,17 +78,17 @@ ENDDEF
 DEF LM386N-3_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 200 60 H V C C N N
 F1 "LM386N-3_NOPB" 100 -200 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
-F4 "296-43959-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-3/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-3-NOPB/296-43959-5-ND/148191" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .7W MONO 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 300 60 H I L C N N
+F4 "296-43959-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-3/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-3-NOPB/296-43959-5-ND/148191" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .7W MONO 8DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -111,17 +111,17 @@ ENDDEF
 DEF LM386N-4_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 200 60 H V C C N N
 F1 "LM386N-4_NOPB" 100 -200 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
-F4 "296-43960-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-4/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-4-NOPB/296-43960-5-ND/148192" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 1W MONO AB 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 300 60 H I L C N N
+F4 "296-43960-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-4/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-4-NOPB/296-43960-5-ND/148192" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 1W MONO AB 8DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -144,17 +144,17 @@ ENDDEF
 DEF LM386N-1_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "LM386N-1_NOPB" 100 -200 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
-F4 "296-44414-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-1/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-1-NOPB/296-44414-5-ND/6284" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .325W MONO 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 300 60 H I L C N N
+F4 "296-44414-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-1/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-1-NOPB/296-44414-5-ND/6284" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .325W MONO 8DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -177,17 +177,17 @@ ENDDEF
 DEF TDA7293V U 0 40 Y Y 1 F N
 F0 "U" -500 550 60 H V C C N N
 F1 "TDA7293V" 300 -800 60 H V L C N N
-F2 "digikey-footprints:Multiwatt-15" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 200 300 60 H I L C N N
-F4 "497-2170-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TDA7293V" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/TDA7293V/497-2170-5-ND/599502" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO 100W AB MULTIWATT15" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Multiwatt-15" 900 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 900 300 60 H I L C N N
+F4 "497-2170-5-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "TDA7293V" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 900 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/TDA7293V/497-2170-5-ND/599502" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO 100W AB MULTIWATT15" 900 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -600 500 500 -700 0 1 0 f
 X STAND-BY_GND 1 0 -800 100 U 50 50 1 1 W
@@ -213,17 +213,17 @@ ENDDEF
 DEF TDA7294V U 0 40 Y Y 1 F N
 F0 "U" -300 700 60 H V C C N N
 F1 "TDA7294V" 200 -800 60 H V L C N N
-F2 "digikey-footprints:Multiwatt-15" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 200 300 60 H I L C N N
-F4 "497-2171-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TDA7294V" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/TDA7294V/497-2171-5-ND/599496" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO 100W AB MULTIWATT15" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Multiwatt-15" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 800 300 60 H I L C N N
+F4 "497-2171-5-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "TDA7294V" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/TDA7294V/497-2171-5-ND/599496" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO 100W AB MULTIWATT15" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 600 400 -700 0 1 0 f
 X STAND-BY_GND 1 100 -800 100 U 50 50 1 1 W
@@ -249,17 +249,17 @@ ENDDEF
 DEF LM1875T_NOPB U 0 0 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "LM1875T_NOPB" 100 -200 60 H V L C N N
-F2 "digikey-footprints:TO-220-5" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 200 300 60 H I L C N N
-F4 "LM1875T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM1875T/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM1875T-NOPB/LM1875T-NOPB-ND/1669" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 30W AB TO220-5" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TO-220-5" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 600 300 60 H I L C N N
+F4 "LM1875T/NOPB-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM1875T/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM1875T-NOPB/LM1875T-NOPB-ND/1669" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 30W AB TO220-5" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -278,17 +278,17 @@ ENDDEF
 DEF LM386MX-1_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "LM386MX-1_NOPB" 100 -200 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
-F4 "LM386MX-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386MX-1/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386MX-1-NOPB/LM386MX-1-NOPBCT-ND/3440154" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .325W AB 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 300 60 H I L C N N
+F4 "LM386MX-1/NOPBCT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386MX-1/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386MX-1-NOPB/LM386MX-1-NOPBCT-ND/3440154" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .325W AB 8SOIC" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -311,17 +311,17 @@ ENDDEF
 DEF LM3886T_NOPB U 0 40 Y Y 1 F N
 F0 "U" -200 200 60 H V C C N N
 F1 "LM3886T_NOPB" 100 -700 60 H V L C N N
-F2 "digikey-footprints:TO-220-11" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 200 300 60 V I L C N N
-F4 "LM3886T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM3886T/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM3886T-NOPB/LM3886T-NOPB-ND/212684" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 68W AB TO220-11" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TO-220-11" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 600 300 60 V I L C N N
+F4 "LM3886T/NOPB-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM3886T/NOPB" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM3886T-NOPB/LM3886T-NOPB-ND/212684" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 68W AB TO220-11" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 100 200 -600 0 1 0 f
 X V+ 1 100 200 100 D 50 50 1 1 W
@@ -343,17 +343,17 @@ ENDDEF
 DEF MAX4466EXK_T U 0 0 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "MAX4466EXK_T" 100 -200 60 H V L C N N
-F2 "digikey-footprints:SOT-353" 200 200 60 H I L C N N
-F3 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
-F4 "MAX4466EXK+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX4466EXK+T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX4466EXK-T/MAX4466EXK-CT-ND/5405773" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PREAMP AUDIO MONO AB SC70-5" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-353" 600 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 600 300 60 H I L C N N
+F4 "MAX4466EXK+CT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX4466EXK+T" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX4466EXK-T/MAX4466EXK-CT-ND/5405773" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PREAMP AUDIO MONO AB SC70-5" 600 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N
@@ -372,17 +372,17 @@ ENDDEF
 DEF MAX9744ETH_T U 0 40 Y Y 1 F N
 F0 "U" -600 950 60 H V C C N N
 F1 "MAX9744ETH_T" -100 -600 60 V V L C N N
-F2 "digikey-footprints:TQFN-44-1EP_7x7mm" 200 200 60 H I L C N N
-F3 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 300 60 H I L C N N
-F4 "MAX9744ETH+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX9744ETH+T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX9744ETH-T/MAX9744ETH-TCT-ND/2708799" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 22.5W D 44TQFN" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFN-44-1EP_7x7mm" 900 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 900 300 60 H I L C N N
+F4 "MAX9744ETH+TCT-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX9744ETH+T" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 900 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX9744ETH-T/MAX9744ETH-TCT-ND/2708799" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 22.5W D 44TQFN" 900 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -700 900 500 -1100 0 1 0 f
 X BOOTL+ 1 600 600 100 L 50 50 1 1 O
@@ -438,17 +438,17 @@ ENDDEF
 DEF MAX9814ETD_T U 0 40 Y Y 1 F N
 F0 "U" -300 150 60 H V C C N N
 F1 "MAX9814ETD_T" 100 -900 60 H V L C N N
-F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
-F4 "MAX9814ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX9814ETD+T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX9814ETD-T/MAX9814ETD-TCT-ND/2037128" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO MONO AB MIC 14TDFN" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 600 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 600 300 60 H I L C N N
+F4 "MAX9814ETD+TCT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX9814ETD+T" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX9814ETD-T/MAX9814ETD-TCT-ND/2037128" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO MONO AB MIC 14TDFN" 600 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 100 200 -800 0 1 0 f
 X CT 1 -500 0 100 R 50 50 1 1 P
@@ -474,17 +474,17 @@ ENDDEF
 DEF MAX98306ETD_T U 0 0 Y Y 1 F N
 F0 "U" -250 450 60 H V C C N N
 F1 "MAX98306ETD_T" 300 -500 60 H V L C N N
-F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
-F4 "MAX98306ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX98306ETD+T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX98306ETD-T/MAX98306ETD-TCT-ND/2708785" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO 3.7W STER D 14TDFN" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 600 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 600 300 60 H I L C N N
+F4 "MAX98306ETD+TCT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX98306ETD+T" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 600 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX98306ETD-T/MAX98306ETD-TCT-ND/2708785" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO 3.7W STER D 14TDFN" 600 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 400 200 -500 0 1 0 f
 S -100 0 100 -100 0 1 0 N

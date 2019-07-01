@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF CPC1002NTR RLY 0 0 Y Y 1 F N
 F0 "RLY" 0 325 50 H V C C N N
 F1 "CPC1002NTR" 0 -350 50 H V C C N N
-F2 "digikey-footprints:SOP-4_W3.81mm" 200 200 50 H I L C N N
-F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1002N.pdf/$file/CPC1002N.pdf" 200 300 60 H I L C N N
-F4 "CLA230CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "CPC1002NTR" 200 500 60 H I L CNN "MPN"
-F6 "Relays" 200 600 60 H I L CNN "Category"
-F7 "Solid State Relays" 200 700 60 H I L CNN "Family"
-F8 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1002N.pdf/$file/CPC1002N.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/ixys-integrated-circuits-division/CPC1002NTR/CLA230CT-ND/1212841" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SSR RELAY SPST-NO 700MA 0-60V" 200 1000 60 H I L CNN "Description"
-F11 "IXYS Integrated Circuits Division" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOP-4_W3.81mm" 700 200 50 H I L C N N
+F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1002N.pdf/$file/CPC1002N.pdf" 700 300 60 H I L C N N
+F4 "CLA230CT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "CPC1002NTR" 700 500 60 H I L CNN "MPN"
+F6 "Relays" 700 600 60 H I L CNN "Category"
+F7 "Solid State Relays" 700 700 60 H I L CNN "Family"
+F8 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1002N.pdf/$file/CPC1002N.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ixys-integrated-circuits-division/CPC1002NTR/CLA230CT-ND/1212841" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SSR RELAY SPST-NO 700MA 0-60V" 700 1000 60 H I L CNN "Description"
+F11 "IXYS Integrated Circuits Division" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S 225 275 -225 -275 0 1 0 f
 P 2 0 1 0 -150 -25 -100 -25 N
@@ -46,17 +46,17 @@ ENDDEF
 DEF CPC1017NTR RLY 0 0 Y N 1 F N
 F0 "RLY" 0 325 50 H V C C N N
 F1 "CPC1017NTR" 0 -350 50 H V C C N N
-F2 "digikey-footprints:SOP-4_W3.81mm" 200 200 50 H I L C N N
-F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf" 200 300 60 H I L C N N
-F4 "CLA233CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "CPC1017NTR" 200 500 60 H I L CNN "MPN"
-F6 "Relays" 200 600 60 H I L CNN "Category"
-F7 "Solid State Relays" 200 700 60 H I L CNN "Family"
-F8 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/ixys-integrated-circuits-division/CPC1017NTR/CLA233CT-ND/1212844" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SSR RELAY SPST-NO 100MA 0-60V" 200 1000 60 H I L CNN "Description"
-F11 "IXYS Integrated Circuits Division" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOP-4_W3.81mm" 700 200 50 H I L C N N
+F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf" 700 300 60 H I L C N N
+F4 "CLA233CT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "CPC1017NTR" 700 500 60 H I L CNN "MPN"
+F6 "Relays" 700 600 60 H I L CNN "Category"
+F7 "Solid State Relays" 700 700 60 H I L CNN "Family"
+F8 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ixys-integrated-circuits-division/CPC1017NTR/CLA233CT-ND/1212844" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SSR RELAY SPST-NO 100MA 0-60V" 700 1000 60 H I L CNN "Description"
+F11 "IXYS Integrated Circuits Division" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -225 275 225 -275 0 1 0 f
 P 2 0 1 0 -185 -25 -115 -25 N
@@ -97,17 +97,17 @@ ENDDEF
 DEF TLP222AF RLY 0 0 Y N 1 F N
 F0 "RLY" 0 330 50 H V C C N N
 F1 "TLP222AF" 0 -360 50 H V C C N N
-F2 "digikey-footprints:DIP-4_W7.62mm" 200 200 50 H I L C N N
-F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A-2" 200 300 60 H I L C N N
-F4 "TLP222AF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TLP222AF" 200 500 60 H I L CNN "MPN"
-F6 "Relays" 200 600 60 H I L CNN "Category"
-F7 "Solid State Relays" 200 700 60 H I L CNN "Family"
-F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A-2" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/toshiba-semiconductor-and-storage/TLP222AF/TLP222AF-ND/871243" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SSR RELAY SPST-NO 500MA 0-60V" 200 1000 60 H I L CNN "Description"
-F11 "Toshiba Semiconductor and Storage" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-4_W7.62mm" 700 200 50 H I L C N N
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A-2" 700 300 60 H I L C N N
+F4 "TLP222AF-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "TLP222AF" 700 500 60 H I L CNN "MPN"
+F6 "Relays" 700 600 60 H I L CNN "Category"
+F7 "Solid State Relays" 700 700 60 H I L CNN "Family"
+F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A-2" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/toshiba-semiconductor-and-storage/TLP222AF/TLP222AF-ND/871243" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SSR RELAY SPST-NO 500MA 0-60V" 700 1000 60 H I L CNN "Description"
+F11 "Toshiba Semiconductor and Storage" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 C 110 -50 7 0 1 0 F
 C 110 50 7 0 1 0 F

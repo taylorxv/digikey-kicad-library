@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 500-0643-00 U 0 40 Y Y 1 F N
 F0 "U" -510 538 60 H V L C N N
 F1 "500-0643-00" 200 -200 60 V V C C N N
-F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 200 200 60 H I L C N N
-F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 300 60 H I L C N N
-F4 "500-0643-00-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "500-0643-00" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Image Sensors, Camera" 200 700 60 H I L CNN "Family"
-F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/flir-lepton/500-0643-00/500-0643-00-ND/5215151" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "THERMAL IMAGE SENSOR 80HX60V" 200 1000 60 H I L CNN "Description"
-F11 "FLIR Lepton" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 1100 200 60 H I L C N N
+F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 300 60 H I L C N N
+F4 "500-0643-00-ND" 1100 400 60 H I L CNN "Digi-Key_PN"
+F5 "500-0643-00" 1100 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 1100 600 60 H I L CNN "Category"
+F7 "Image Sensors, Camera" 1100 700 60 H I L CNN "Family"
+F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/flir-lepton/500-0643-00/500-0643-00-ND/5215151" 1100 900 60 H I L CNN "DK_Detail_Page"
+F10 "THERMAL IMAGE SENSOR 80HX60V" 1100 1000 60 H I L CNN "Description"
+F11 "FLIR Lepton" 1100 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1100 1200 60 H I L CNN "Status"
 DRAW
 S -500 500 700 -1000 0 1 0 f
 X GND 1 -400 -1100 100 U 50 50 1 1 W
@@ -60,17 +60,17 @@ ENDDEF
 DEF 500-0659-01 U 0 40 Y Y 1 F N
 F0 "U" -510 538 60 H V L C N N
 F1 "500-0659-01" 200 -200 60 V V C C N N
-F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 200 200 60 H I L C N N
-F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 300 60 H I L C N N
-F4 "500-0659-01-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "500-0659-01" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Image Sensors, Camera" 200 700 60 H I L CNN "Family"
-F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/flir-lepton/500-0659-01/500-0659-01-ND/5215153" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "THERMAL IMAGE SENSOR 80HX60V" 200 1000 60 H I L CNN "Description"
-F11 "FLIR Lepton" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 1100 200 60 H I L C N N
+F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 300 60 H I L C N N
+F4 "500-0659-01-ND" 1100 400 60 H I L CNN "Digi-Key_PN"
+F5 "500-0659-01" 1100 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 1100 600 60 H I L CNN "Category"
+F7 "Image Sensors, Camera" 1100 700 60 H I L CNN "Family"
+F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/flir-lepton/500-0659-01/500-0659-01-ND/5215153" 1100 900 60 H I L CNN "DK_Detail_Page"
+F10 "THERMAL IMAGE SENSOR 80HX60V" 1100 1000 60 H I L CNN "Description"
+F11 "FLIR Lepton" 1100 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1100 1200 60 H I L CNN "Status"
 DRAW
 S -500 500 700 -1000 0 1 0 f
 X GND 1 -400 -1100 100 U 50 50 1 1 W
@@ -114,17 +114,17 @@ ENDDEF
 DEF 500-0690-00 U 0 40 Y Y 1 F N
 F0 "U" -510 538 60 H V L C N N
 F1 "500-0690-00" 200 -200 60 V V C C N N
-F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 200 200 60 H I L C N N
-F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 300 60 H I L C N N
-F4 "500-0690-00-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "500-0690-00" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Image Sensors, Camera" 200 700 60 H I L CNN "Family"
-F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/flir-lepton/500-0690-00/500-0690-00-ND/5215152" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "THERMAL IMAGE SENSOR 80HX60V" 200 1000 60 H I L CNN "Description"
-F11 "FLIR Lepton" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 1100 200 60 H I L C N N
+F3 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 300 60 H I L C N N
+F4 "500-0690-00-ND" 1100 400 60 H I L CNN "Digi-Key_PN"
+F5 "500-0690-00" 1100 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 1100 600 60 H I L CNN "Category"
+F7 "Image Sensors, Camera" 1100 700 60 H I L CNN "Family"
+F8 "https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf" 1100 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/flir-lepton/500-0690-00/500-0690-00-ND/5215152" 1100 900 60 H I L CNN "DK_Detail_Page"
+F10 "THERMAL IMAGE SENSOR 80HX60V" 1100 1000 60 H I L CNN "Description"
+F11 "FLIR Lepton" 1100 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1100 1200 60 H I L CNN "Status"
 DRAW
 S -500 500 700 -1000 0 1 0 f
 X GND 1 -400 -1100 100 U 50 50 1 1 W
@@ -168,17 +168,17 @@ ENDDEF
 DEF 500-0726-01 U 0 40 Y Y 1 F N
 F0 "U" -600 850 50 H V L C N N
 F1 "500-0726-01" 50 100 50 V V C C N N
-F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 200 200 60 H I L C N N
-F3 " https://www.flir.com/globalassets/imported-assets/document/lepton-3-3.5-datasheet.pdf" 200 300 60 H I L C N N
-F4 "500-0726-01-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "500-0726-01" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Image Sensors, Camera" 200 700 60 H I L CNN "Family"
-F8 " https://www.flir.com/globalassets/imported-assets/document/lepton-3-3.5-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/flir-lepton/500-0726-01/500-0726-01-ND/6163867" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "THERMAL IMAGE SENSOR 160HX120V" 200 1000 60 H I L CNN "Description"
-F11 "FLIR Lepton" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:FLIR_Lepton_Socket_1050281001" 1000 200 60 H I L C N N
+F3 " https://www.flir.com/globalassets/imported-assets/document/lepton-3-3.5-datasheet.pdf" 1000 300 60 H I L C N N
+F4 "500-0726-01-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "500-0726-01" 1000 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 1000 600 60 H I L CNN "Category"
+F7 "Image Sensors, Camera" 1000 700 60 H I L CNN "Family"
+F8 " https://www.flir.com/globalassets/imported-assets/document/lepton-3-3.5-datasheet.pdf" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/flir-lepton/500-0726-01/500-0726-01-ND/6163867" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "THERMAL IMAGE SENSOR 160HX120V" 1000 1000 60 H I L CNN "Description"
+F11 "FLIR Lepton" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -600 800 600 -700 1 1 0 f
 X GND 1 -500 -800 100 U 50 50 1 1 W

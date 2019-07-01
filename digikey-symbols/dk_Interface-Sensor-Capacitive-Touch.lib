@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF CAP1188-1-CP-TR U 0 40 Y Y 1 F N
 F0 "U" -500 850 60 H V L C N N
 F1 "CAP1188-1-CP-TR" -280 -850 60 H V L C N N
-F2 "digikey-footprints:TFQFN-24-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990" 200 300 60 H I L C N N
-F4 "CAP1188-1-CP-TRCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "CAP1188-1-CP-TR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Sensor, Capacitive Touch" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/CAP1188-1-CP-TR/CAP1188-1-CP-TRCT-ND/4147176" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TOUCH SENSOR/LED DRVR 24VQFN" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TFQFN-24-1EP_4x4mm" 1000 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990" 1000 300 60 H I L C N N
+F4 "CAP1188-1-CP-TRCT-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "CAP1188-1-CP-TR" 1000 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1000 600 60 H I L CNN "Category"
+F7 "Interface - Sensor, Capacitive Touch" 1000 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/CAP1188-1-CP-TR/CAP1188-1-CP-TRCT-ND/4147176" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TOUCH SENSOR/LED DRVR 24VQFN" 1000 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -600 800 600 -800 0 1 0 f
 X SPI_CS# 1 -700 600 100 R 50 50 1 1 I

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF DRV8833PWPR U 0 20 Y Y 1 F N
 F0 "U" -300 550 60 H V C C N N
 F1 "DRV8833PWPR" -200 650 60 H V R C N N
-F2 "digikey-footprints:TSSOP-16-1EP_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 200 300 60 H I L C N N
-F4 "296-29434-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DRV8833PWPR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/DRV8833PWPR/296-29434-1-ND/2743171" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOTOR DRIVER PAR 16HTSSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-16-1EP_W4.40mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 700 300 60 H I L C N N
+F4 "296-29434-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "DRV8833PWPR" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Full, Half-Bridge Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/DRV8833PWPR/296-29434-1-ND/2743171" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOTOR DRIVER PAR 16HTSSOP" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -400 500 300 -400 0 1 0 f
 X nSLEEP 1 -500 -100 100 R 50 50 1 1 I
@@ -44,17 +44,17 @@ ENDDEF
 DEF DRV8837DSGR U 0 20 Y Y 1 F N
 F0 "U" -300 250 60 H V C C N N
 F1 "DRV8837DSGR" -150 350 60 H V R C N N
-F2 "digikey-footprints:WSON-8_2x2mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 200 300 60 H I L C N N
-F4 "296-34806-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DRV8837DSGR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/DRV8837DSGR/296-34806-1-ND/3518833" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOTOR DRIVER PAR 8WSON" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WSON-8_2x2mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 700 300 60 H I L C N N
+F4 "296-34806-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "DRV8837DSGR" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Full, Half-Bridge Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/DRV8837DSGR/296-34806-1-ND/3518833" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOTOR DRIVER PAR 8WSON" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 200 300 -200 0 1 0 f
 X VM 1 0 300 100 D 50 50 1 1 W
@@ -74,17 +74,17 @@ ENDDEF
 DEF SN754410NE U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "SN754410NE" -100 350 60 H V R C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 200 300 60 H I L C N N
-F4 "296-9911-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN754410NE" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN754410NE/296-9911-5-ND/380180" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC HALF-H DRVR QUAD 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 700 300 60 H I L C N N
+F4 "296-9911-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN754410NE" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Full, Half-Bridge Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN754410NE/296-9911-5-ND/380180" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC HALF-H DRVR QUAD 16-DIP" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 200 300 -600 0 1 0 f
 X 1,2EN 1 -300 100 100 R 50 50 1 1 I
@@ -111,17 +111,17 @@ ENDDEF
 DEF L298N U 0 20 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "L298N" -100 450 60 H V R C N N
-F2 "digikey-footprints:Multiwatt-15" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf" 200 300 60 H I L C N N
-F4 "497-1395-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L298N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L298N/497-1395-5-ND/585918" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC BRIDGE DRIVER PAR 15MULTIWATT" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Multiwatt-15" 600 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf" 600 300 60 H I L C N N
+F4 "497-1395-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "L298N" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Full, Half-Bridge Drivers" 600 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L298N/497-1395-5-ND/585918" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BRIDGE DRIVER PAR 15MULTIWATT" 600 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 200 -600 0 1 0 f
 X CS_A 1 -400 -400 100 R 50 50 1 1 I
@@ -147,17 +147,17 @@ ENDDEF
 DEF L6203 U 0 20 Y Y 1 F N
 F0 "U" -200 400 60 H V C C N N
 F1 "L6203" 0 500 60 H V R C N N
-F2 "digikey-footprints:Multiwatt-11" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf" 200 300 60 H I L C N N
-F4 "497-1421-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L6203" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L6203/497-1421-5-ND/585942" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MOTOR DRIVER PAR 11MULTIWATT" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Multiwatt-11" 700 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf" 700 300 60 H I L C N N
+F4 "497-1421-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "L6203" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Full, Half-Bridge Drivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L6203/497-1421-5-ND/585942" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MOTOR DRIVER PAR 11MULTIWATT" 700 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -250 350 250 -350 0 1 0 f
 X OUT2 1 400 100 150 L 50 50 1 1 O

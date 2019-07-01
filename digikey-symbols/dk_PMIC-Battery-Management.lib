@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF BQ29700DSET U 0 40 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "BQ29700DSET" 20 -350 60 H V L C N N
-F2 "digikey-footprints:WFDFN-6_1.5x1.5mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq2971" 200 300 60 H I L C N N
-F4 "296-37746-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BQ29700DSET" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Battery Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq2971" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/BQ29700DSET/296-37746-1-ND/4840671" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC LITHIUM BATT PROTECT 6-SON" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WFDFN-6_1.5x1.5mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq2971" 700 300 60 H I L C N N
+F4 "296-37746-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "BQ29700DSET" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Management" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq2971" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/BQ29700DSET/296-37746-1-ND/4840671" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LITHIUM BATT PROTECT 6-SON" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 300 -300 0 1 0 f
 X NC 1 0 -200 100 R 50 50 1 1 N N
@@ -33,17 +33,17 @@ ENDDEF
 DEF LTC2943IDD_PBF U 0 40 Y Y 1 F N
 F0 "U" -200 140 60 H V R C N N
 F1 "LTC2943IDD_PBF" 320 -550 60 H V L C N N
-F2 "digikey-footprints:WFDFN-8-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/44018" 200 300 60 H I L C N N
-F4 "LTC2943IDD#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTC2943IDD#PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Battery Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/44018" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LTC2943IDD-PBF/LTC2943IDD-PBF-ND/4488951" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC GAS GAUGE MULTICELL 8DFN" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:WFDFN-8-1EP_3x3mm" 800 200 60 H I L C N N
+F3 "http://www.linear.com/docs/44018" 800 300 60 H I L C N N
+F4 "LTC2943IDD#PBF-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC2943IDD#PBF" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Management" 800 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/44018" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC2943IDD-PBF/LTC2943IDD-PBF-ND/4488951" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC GAS GAUGE MULTICELL 8DFN" 800 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 X SENSE+ 1 100 200 100 D 50 50 1 0 W
 S -300 100 400 -500 0 1 0 f
@@ -63,17 +63,17 @@ ENDDEF
 DEF LTC4150IMS_PBF U 0 40 Y Y 1 F N
 F0 "U" -200 140 60 H V R C N N
 F1 "LTC4150IMS_PBF" 20 -650 60 H V L C N N
-F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/1556" 200 300 60 H I L C N N
-F4 "LTC4150IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTC4150IMS#PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Battery Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/1556" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LTC4150IMS-PBF/LTC4150IMS-PBF-ND/961375" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC COUNTER/GAUGE GAS/BATT 10MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:MSOP-10_W3mm" 700 200 60 H I L C N N
+F3 "http://www.linear.com/docs/1556" 700 300 60 H I L C N N
+F4 "LTC4150IMS#PBF-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC4150IMS#PBF" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Management" 700 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/1556" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC4150IMS-PBF/LTC4150IMS-PBF-ND/961375" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC COUNTER/GAUGE GAS/BATT 10MSOP" 700 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 100 300 -600 0 1 0 f
 X SENSE+ 1 -400 0 100 R 50 50 1 1 I

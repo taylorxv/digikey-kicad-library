@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF TPS61200DRCR_Discontinued U 0 40 Y Y 1 F N
 F0 "U" -200 150 60 H V R C N N
 F1 "TPS61200DRCR_Discontinued" 130 -650 60 H V L C N N
-F2 "digikey-footprints:VSON-10-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61202" 200 300 60 H I L C N N
-F4 "296-27017-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPS61200DRCR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61202" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPS61200DRCR/296-27017-1-ND/2255303" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG BOOST ADJ 1.2A SYNC 10SON" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:VSON-10-1EP_3x3mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61202" 600 300 60 H I L C N N
+F4 "296-27017-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPS61200DRCR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61202" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPS61200DRCR/296-27017-1-ND/2255303" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG BOOST ADJ 1.2A 10VSON" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Discontinued at Digi-Key NonStock" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 100 200 -600 0 1 0 f
 X VAUX 1 -400 -500 100 R 50 50 1 1 B
@@ -38,17 +38,17 @@ ENDDEF
 DEF AOZ1280CI U 0 40 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "AOZ1280CI" 30 -350 60 H V L C N N
-F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 200 300 60 H I L C N N
-F4 "785-1277-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "AOZ1280CI" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 200 700 60 H I L CNN "Family"
-F8 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/alpha-omega-semiconductor-inc/AOZ1280CI/785-1277-1-ND/2769845" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG BUCK ADJ 1.2A SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "Alpha & Omega Semiconductor Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-6" 600 200 60 H I L C N N
+F3 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 600 300 60 H I L C N N
+F4 "785-1277-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "AOZ1280CI" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 600 700 60 H I L CNN "Family"
+F8 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/alpha-omega-semiconductor-inc/AOZ1280CI/785-1277-1-ND/2769845" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG BUCK ADJ 1.2A SOT23-6" 600 1000 60 H I L CNN "Description"
+F11 "Alpha & Omega Semiconductor Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -300 0 1 0 f
 X BST 1 -300 0 100 R 50 50 1 1 P

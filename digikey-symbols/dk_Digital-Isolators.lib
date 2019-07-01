@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF ISO1540DR U 0 0 Y Y 1 F N
 F0 "U" -300 350 60 H V L C N N
 F1 "ISO1540DR" 200 -250 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 200 300 60 H I L C N N
-F4 "296-34871-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ISO1540DR" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Digital Isolators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/ISO1540DR/296-34871-1-ND/3587214" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "DGTL ISO 2.5KV 2CH I2C 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 800 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 800 300 60 H I L C N N
+F4 "296-34871-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "ISO1540DR" 800 500 60 H I L CNN "MPN"
+F6 "Isolators" 800 600 60 H I L CNN "Category"
+F7 "Digital Isolators" 800 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/ISO1540DR/296-34871-1-ND/3587214" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "DGTL ISO 2.5KV 2CH I2C 8SOIC" 800 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 -100 -250 -100 0 1 0 N
 S -300 100 -250 100 0 1 0 N
@@ -95,17 +95,17 @@ ENDDEF
 DEF ADM3251EARWZ U 0 40 Y Y 1 F N
 F0 "U" -450 600 60 H V L C N N
 F1 "ADM3251EARWZ" 400 150 60 V V R C N N
-F2 "digikey-footprints:SOIC-20_W7.5mm" 200 200 60 H I L C N N
-F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf" 200 300 60 H I L C N N
-F4 "ADM3251EARWZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ADM3251EARWZ" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Digital Isolators" 200 700 60 H I L CNN "Family"
-F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/analog-devices-inc/ADM3251EARWZ/ADM3251EARWZ-ND/1944219" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "DGTL ISO 2.5KV 2CH RS232 20SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-20_W7.5mm" 800 200 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf" 800 300 60 H I L C N N
+F4 "ADM3251EARWZ-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "ADM3251EARWZ" 800 500 60 H I L CNN "MPN"
+F6 "Isolators" 800 600 60 H I L CNN "Category"
+F7 "Digital Isolators" 800 700 60 H I L CNN "Family"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/ADM3251EARWZ/ADM3251EARWZ-ND/1944219" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "DGTL ISO 2.5KV 2CH RS232 20SOIC" 800 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -450 550 350 -650 0 1 0 f
 X NC 1 -600 -400 150 R 50 50 1 1 N

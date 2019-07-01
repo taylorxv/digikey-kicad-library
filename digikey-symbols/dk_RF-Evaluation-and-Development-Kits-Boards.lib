@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 2542 A 0 20 Y Y 1 F N
 F0 "A" -250 450 60 H V C C N N
 F1 "2542" -150 550 60 H V R C N N
-F2 "digikey-footprints:Cellular_Breakout_2542" 200 200 60 H I L C N N
-F3 "https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf" 200 300 60 H I L C N N
-F4 "1528-1428-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "2542" 200 500 60 H I L CNN "MPN"
-F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
-F7 "RF Evaluation and Development Kits, Boards" 200 700 60 H I L CNN "Family"
-F8 "https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/adafruit-industries-llc/2542/1528-1428-ND/5699183" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "BREAKOUT BOARD GSM/GPS FONA 808" 200 1000 60 H I L CNN "Description"
-F11 "Adafruit Industries LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Cellular_Breakout_2542" 700 200 60 H I L C N N
+F3 "https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf" 700 300 60 H I L C N N
+F4 "1528-1428-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "2542" 700 500 60 H I L CNN "MPN"
+F6 "RF/IF and RFID" 700 600 60 H I L CNN "Category"
+F7 "RF Evaluation and Development Kits, Boards" 700 700 60 H I L CNN "Family"
+F8 "https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/adafruit-industries-llc/2542/1528-1428-ND/5699183" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "BREAKOUT BOARD GSM/GPS FONA 808" 700 1000 60 H I L CNN "Description"
+F11 "Adafruit Industries LLC" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 400 300 -400 0 1 0 f
 X 5V 1 100 500 100 D 50 50 1 1 W
@@ -43,17 +43,17 @@ ENDDEF
 DEF PHOTONH A 0 20 Y Y 1 F N
 F0 "A" -250 550 60 H V C C N N
 F1 "PHOTONH" -200 650 60 H V R C N N
-F2 "digikey-footprints:Particle_Photon" 200 200 60 H I L C N N
-F3 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 200 300 60 H I L C N N
-F4 "1878-1000-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PHOTONH" 200 500 60 H I L CNN "MPN"
-F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
-F7 "RF Evaluation and Development Kits, Boards" 200 700 60 H I L CNN "Family"
-F8 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/particle-industries-inc/PHOTONH/1878-1000-ND/7896991" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "PHOTON WITH HEADERS" 200 1000 60 H I L CNN "Description"
-F11 "Particle Industries, Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Particle_Photon" 700 200 60 H I L C N N
+F3 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 700 300 60 H I L C N N
+F4 "1878-1000-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "PHOTONH" 700 500 60 H I L CNN "MPN"
+F6 "RF/IF and RFID" 700 600 60 H I L CNN "Category"
+F7 "RF Evaluation and Development Kits, Boards" 700 700 60 H I L CNN "Family"
+F8 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/particle-industries-inc/PHOTONH/1878-1000-ND/7896991" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTON WITH HEADERS" 700 1000 60 H I L CNN "Description"
+F11 "Particle Industries, Inc." 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 500 300 -700 0 1 0 f
 X VIN 1 -100 600 100 D 50 50 1 1 W

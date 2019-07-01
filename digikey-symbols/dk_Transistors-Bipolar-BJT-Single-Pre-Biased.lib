@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF MMUN2211LT1G Q 0 0 Y Y 1 F N
 F0 "Q" -162 151 60 H V R C N N
 F1 "MMUN2211LT1G" 103 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 200 300 60 H I L C N N
-F4 "MMUN2211LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MMUN2211LT1G" 200 500 60 H I L CNN "MPN"
-F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
-F7 "Transistors - Bipolar (BJT) - Single, Pre-Biased" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/MMUN2211LT1G/MMUN2211LT1GOSCT-ND/1139908" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRANS PREBIAS NPN 246MW SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 339 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 339 300 60 H I L C N N
+F4 "MMUN2211LT1GOSCT-ND" 339 400 60 H I L CNN "Digi-Key_PN"
+F5 "MMUN2211LT1G" 339 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 339 600 60 H I L CNN "Category"
+F7 "Transistors - Bipolar (BJT) - Single, Pre-Biased" 339 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 339 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/MMUN2211LT1G/MMUN2211LT1GOSCT-ND/1139908" 339 900 60 H I L CNN "DK_Detail_Page"
+F10 "TRANS PREBIAS NPN 246MW SOT23-3" 339 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 339 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 339 1200 60 H I L CNN "Status"
 DRAW
 C -130 0 4 0 1 0 N
 C -100 0 139 0 1 0 f
@@ -43,17 +43,17 @@ ENDDEF
 DEF MMUN2211LT3G Q 0 0 Y Y 1 F N
 F0 "Q" -162 151 60 H V R C N N
 F1 "MMUN2211LT3G" 103 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 200 300 60 H I L C N N
-F4 "MMUN2211LT3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MMUN2211LT3G" 200 500 60 H I L CNN "MPN"
-F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
-F7 "Transistors - Bipolar (BJT) - Single, Pre-Biased" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/MMUN2211LT3G/MMUN2211LT3GOSCT-ND/2705150" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRANS PREBIAS NPN 246MW SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 339 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 339 300 60 H I L C N N
+F4 "MMUN2211LT3GOSCT-ND" 339 400 60 H I L CNN "Digi-Key_PN"
+F5 "MMUN2211LT3G" 339 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 339 600 60 H I L CNN "Category"
+F7 "Transistors - Bipolar (BJT) - Single, Pre-Biased" 339 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/DTC114E-D.PDF" 339 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/MMUN2211LT3G/MMUN2211LT3GOSCT-ND/2705150" 339 900 60 H I L CNN "DK_Detail_Page"
+F10 "TRANS PREBIAS NPN 246MW SOT23-3" 339 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 339 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 339 1200 60 H I L CNN "Status"
 DRAW
 C -130 0 4 0 1 0 N
 C -100 0 139 0 1 0 f

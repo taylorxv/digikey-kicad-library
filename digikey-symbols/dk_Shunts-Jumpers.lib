@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF ~5100TR U 0 40 Y Y 1 F N
 F0 "J" 0 100 50 H V C C N N
 F1 "5100TR" 0 -100 50 H I C C N N
-F2 "digikey-footprints:Jumper_Micro-Miniature_P5.31mm" 200 200 60 H I L C N N
-F3 "http://www.keyelco.com/product-pdf.cfm?p=14019" 200 300 60 H I L C N N
-F4 "36-5100CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "5100TR" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Shunts, Jumpers" 200 700 60 H I L CNN "Family"
-F8 "http://www.keyelco.com/product-pdf.cfm?p=14019" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/keystone-electronics/5100TR/36-5100CT-ND/5980633" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "COMPACT SMT JUMPER" 200 1000 60 H I L CNN "Description"
-F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Jumper_Micro-Miniature_P5.31mm" 500 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=14019" 500 300 60 H I L C N N
+F4 "36-5100CT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "5100TR" 500 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 500 600 60 H I L CNN "Category"
+F7 "Shunts, Jumpers" 500 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=14019" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5100TR/36-5100CT-ND/5980633" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "COMPACT SMT JUMPER" 500 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 A -25 0 50 901 -901 0 1 0 N -25 50 -25 -50
 A 25 0 50 -899 899 0 1 0 N 25 -50 25 50
@@ -33,17 +33,17 @@ ENDDEF
 DEF ~5102TR U 0 40 Y Y 1 F N
 F0 "J" 0 100 50 H V C C N N
 F1 "5102TR" 0 -100 50 H I C C N N
-F2 "digikey-footprints:Jumper_Micro-Miniature_P5.375mm" 200 200 60 H I L C N N
-F3 "http://www.keyelco.com/product-pdf.cfm?p=14020" 200 300 60 H I L C N N
-F4 "36-5102CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "5102TR" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Shunts, Jumpers" 200 700 60 H I L CNN "Family"
-F8 "http://www.keyelco.com/product-pdf.cfm?p=14020" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/keystone-electronics/5102TR/36-5102CT-ND/5980635" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "MICRO-MINIATURE SMT JUMPER" 200 1000 60 H I L CNN "Description"
-F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Jumper_Micro-Miniature_P5.375mm" 500 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=14020" 500 300 60 H I L C N N
+F4 "36-5102CT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "5102TR" 500 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 500 600 60 H I L CNN "Category"
+F7 "Shunts, Jumpers" 500 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=14020" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5102TR/36-5102CT-ND/5980635" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "MICRO-MINIATURE SMT JUMPER" 500 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 A -25 0 50 901 -901 1 1 0 N -25 50 -25 -50
 A 25 0 50 -899 899 1 1 0 N 25 -50 25 50
@@ -60,17 +60,17 @@ ENDDEF
 DEF S1621-46R U 0 40 Y Y 1 F N
 F0 "J" 0 100 50 H V C C N N
 F1 "S1621-46R" 0 -100 50 H V C C N N
-F2 "digikey-footprints:Jumper_Tin_P10.9mm" 200 200 60 H I L C N N
-F3 "https://cdn.harwin.com/pdfs/S1621R.pdf" 200 300 60 H I L C N N
-F4 "952-1474-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "S1621-46R" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Shunts, Jumpers" 200 700 60 H I L CNN "Family"
-F8 "https://cdn.harwin.com/pdfs/S1621R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/harwin-inc/S1621-46R/952-1474-1-ND/2264560" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "JUMPER TIN SMD" 200 1000 60 H I L CNN "Description"
-F11 "Harwin Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Jumper_Tin_P10.9mm" 500 200 60 H I L C N N
+F3 "https://cdn.harwin.com/pdfs/S1621R.pdf" 500 300 60 H I L C N N
+F4 "952-1474-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "S1621-46R" 500 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 500 600 60 H I L CNN "Category"
+F7 "Shunts, Jumpers" 500 700 60 H I L CNN "Family"
+F8 "https://cdn.harwin.com/pdfs/S1621R.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/harwin-inc/S1621-46R/952-1474-1-ND/2264560" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "JUMPER TIN SMD" 500 1000 60 H I L CNN "Description"
+F11 "Harwin Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 A -25 0 50 901 -901 1 1 0 N -25 50 -25 -50
 A 25 0 50 -899 899 1 1 0 N 25 -50 25 50
@@ -87,17 +87,17 @@ ENDDEF
 DEF S1731-46R U 0 40 Y Y 1 F N
 F0 "J" 0 100 56 H V C C N N
 F1 "S1731-46R" 0 -100 50 H V C C N N
-F2 "digikey-footprints:Jumper_Tin_P5.32mm" 200 200 60 H I L C N N
-F3 "https://cdn.harwin.com/pdfs/S1731R.pdf" 200 300 60 H I L C N N
-F4 "952-1581-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "S1731-46R" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Shunts, Jumpers" 200 700 60 H I L CNN "Family"
-F8 "https://cdn.harwin.com/pdfs/S1731R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/harwin-inc/S1731-46R/952-1581-1-ND/2281843" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "JUMPER TIN SMD" 200 1000 60 H I L CNN "Description"
-F11 "Harwin Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Jumper_Tin_P5.32mm" 500 200 60 H I L C N N
+F3 "https://cdn.harwin.com/pdfs/S1731R.pdf" 500 300 60 H I L C N N
+F4 "952-1581-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "S1731-46R" 500 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 500 600 60 H I L CNN "Category"
+F7 "Shunts, Jumpers" 500 700 60 H I L CNN "Family"
+F8 "https://cdn.harwin.com/pdfs/S1731R.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/harwin-inc/S1731-46R/952-1581-1-ND/2281843" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "JUMPER TIN SMD" 500 1000 60 H I L CNN "Description"
+F11 "Harwin Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 A -25 0 50 901 -901 1 1 0 N -25 50 -25 -50
 A 25 0 50 -899 899 1 1 0 N 25 -50 25 50
@@ -114,17 +114,17 @@ ENDDEF
 DEF S1911-46R U 0 40 Y Y 1 F N
 F0 "J" 0 100 50 H V C C N N
 F1 "S1911-46R" 0 -100 50 H V C C N N
-F2 "digikey-footprints:Jumper_Tin_P5.38mm" 200 200 60 H I L C N N
-F3 "https://cdn.harwin.com/pdfs/S1911R.pdf" 200 300 60 H I L C N N
-F4 "952-1740-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "S1911-46R" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Shunts, Jumpers" 200 700 60 H I L CNN "Family"
-F8 "https://cdn.harwin.com/pdfs/S1911R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/harwin-inc/S1911-46R/952-1740-1-ND/3131071" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "JUMPER TIN SMD" 200 1000 60 H I L CNN "Description"
-F11 "Harwin Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Jumper_Tin_P5.38mm" 500 200 60 H I L C N N
+F3 "https://cdn.harwin.com/pdfs/S1911R.pdf" 500 300 60 H I L C N N
+F4 "952-1740-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "S1911-46R" 500 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 500 600 60 H I L CNN "Category"
+F7 "Shunts, Jumpers" 500 700 60 H I L CNN "Family"
+F8 "https://cdn.harwin.com/pdfs/S1911R.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/harwin-inc/S1911-46R/952-1740-1-ND/3131071" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "JUMPER TIN SMD" 500 1000 60 H I L CNN "Description"
+F11 "Harwin Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 A -25 0 50 901 -901 1 1 0 N -25 50 -25 -50
 A 25 0 50 -899 899 1 1 0 N 25 -50 25 50

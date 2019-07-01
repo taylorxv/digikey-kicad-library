@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF PS1240P02BT BZ 0 0 Y Y 1 F N
 F0 "BZ" 0 200 60 H V L C N N
 F1 "PS1240P02BT" -50 -150 60 H V L C N N
-F2 "digikey-footprints:Piezo_Transducer_THT_PS1240P02BT" 200 200 60 H I L C N N
-F3 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 200 300 60 H I L C N N
-F4 "445-2525-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PS1240P02BT" 200 500 60 H I L CNN "MPN"
-F6 "Audio Products" 200 600 60 H I L CNN "Category"
-F7 "Alarms, Buzzers, and Sirens" 200 700 60 H I L CNN "Family"
-F8 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/tdk-corporation/PS1240P02BT/445-2525-1-ND/935930" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "AUDIO PIEZO TRANSDUCER 30V TH" 200 1000 60 H I L CNN "Description"
-F11 "TDK Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Piezo_Transducer_THT_PS1240P02BT" 612 200 60 H I L C N N
+F3 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 612 300 60 H I L C N N
+F4 "445-2525-1-ND" 612 400 60 H I L CNN "Digi-Key_PN"
+F5 "PS1240P02BT" 612 500 60 H I L CNN "MPN"
+F6 "Audio Products" 612 600 60 H I L CNN "Category"
+F7 "Alarms, Buzzers, and Sirens" 612 700 60 H I L CNN "Family"
+F8 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 612 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/tdk-corporation/PS1240P02BT/445-2525-1-ND/935930" 612 900 60 H I L CNN "DK_Detail_Page"
+F10 "AUDIO PIEZO TRANSDUCER 30V TH" 612 1000 60 H I L CNN "Description"
+F11 "TDK Corporation" 612 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 612 1200 60 H I L CNN "Status"
 DRAW
 A 200 50 71 450 -450 0 1 0 N 250 100 250 0
 A 200 50 112 634 -634 0 1 0 N 250 150 250 -50
@@ -32,17 +32,17 @@ ENDDEF
 DEF PKMCS0909E4000-R1 BZ 0 1 Y Y 1 F N
 F0 "BZ" 0 200 60 H V L C N N
 F1 "PKMCS0909E4000-R1" -100 -100 60 H V L C N N
-F2 "digikey-footprints:Piezo_9x9mm_PKMCS0909E4000-R1" 200 200 60 H I L C N N
-F3 "https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx" 200 300 60 H I L C N N
-F4 "490-9647-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PKMCS0909E4000-R1" 200 500 60 H I L CNN "MPN"
-F6 "Audio Products" 200 600 60 H I L CNN "Category"
-F7 "Alarms, Buzzers, and Sirens" 200 700 60 H I L CNN "Family"
-F8 "https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/murata-electronics-north-america/PKMCS0909E4000-R1/490-9647-1-ND/4878401" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "AUDIO PIEZO TRANSDUCER 12.5V SMD" 200 1000 60 H I L CNN "Description"
-F11 "Murata Electronics North America" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Piezo_9x9mm_PKMCS0909E4000-R1" 612 200 60 H I L C N N
+F3 "https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx" 612 300 60 H I L C N N
+F4 "490-9647-1-ND" 612 400 60 H I L CNN "Digi-Key_PN"
+F5 "PKMCS0909E4000-R1" 612 500 60 H I L CNN "MPN"
+F6 "Audio Products" 612 600 60 H I L CNN "Category"
+F7 "Alarms, Buzzers, and Sirens" 612 700 60 H I L CNN "Family"
+F8 "https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx" 612 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/murata-electronics-north-america/PKMCS0909E4000-R1/490-9647-1-ND/4878401" 612 900 60 H I L CNN "DK_Detail_Page"
+F10 "AUDIO PIEZO TRANSDUCER 12.5V SMD" 612 1000 60 H I L CNN "Description"
+F11 "Murata Electronics North America" 612 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 612 1200 60 H I L CNN "Status"
 DRAW
 A 200 50 71 450 -450 0 1 0 N 250 100 250 0
 A 200 50 112 634 -634 0 1 0 N 250 150 250 -50

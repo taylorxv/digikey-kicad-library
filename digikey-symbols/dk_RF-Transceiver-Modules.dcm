@@ -87,7 +87,7 @@ $ENDCMP
 $CMP 2491
 D ESP8266 SMT MODULE
 K 1528-1438-ND 
-F https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/2491_Web.pdf
 $ENDCMP
 #
 $CMP RFD22301_Obsolete
@@ -158,7 +158,7 @@ $ENDCMP
 #
 $CMP XB24-API-001_LTB
 D RF TXRX MOD 802.15.4 TRACE ANT
-K 602-1273-ND XBee® 802.15.4
+K 602-1273-ND XBee® 802.15.5
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
@@ -230,7 +230,7 @@ $ENDCMP
 #
 $CMP XB24CAWIT-001
 D RF TXRX MOD 802.15.4  WIRE ANT
-K 602-1891-ND XBee®
+K 602-1891-ND XBee® 802.15.4
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
@@ -252,7 +252,7 @@ K ATWINC1500-MR210PB-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en594386
 $ENDCMP
 #
-$CMP BL600-SA
+$CMP BL600-SA_NonStock
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K BL600-SA-ND BL600
 F https://assets.lairdtech.com/home/brandworld/files/Product%20Brief%20-%20Bx600%20Breakout%20Boards%20and%20DVK-BL600.pdf

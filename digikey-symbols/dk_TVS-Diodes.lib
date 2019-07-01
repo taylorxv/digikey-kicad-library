@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF PESD1CAN-UX D 0 0 Y Y 1 F N
 F0 "D" -205 235 60 H V L C N N
 F1 "PESD1CAN-UX" 50 -250 60 H V C C N N
-F2 "digikey-footprints:SOT-323" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf" 200 300 60 H I L C N N
-F4 "1727-1306-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PESD1CAN-UX" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/PESD1CAN-UX/1727-1306-1-ND/4386316" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 24V 50V SOT323-3" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-323" 615 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf" 615 300 60 H I L C N N
+F4 "1727-1306-1-ND" 615 400 60 H I L CNN "Digi-Key_PN"
+F5 "PESD1CAN-UX" 615 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 615 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 615 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf" 615 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/PESD1CAN-UX/1727-1306-1-ND/4386316" 615 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 24V 50V SOT323-3" 615 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 615 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 615 1200 60 H I L CNN "Status"
 DRAW
 C 155 0 7 0 1 0 F
 S -200 200 215 -200 0 1 0 f
@@ -50,17 +50,17 @@ ENDDEF
 DEF IP4220CZ6_125 D 0 0 Y Y 1 F N
 F0 "D" -278 294 60 H V L C N N
 F1 "IP4220CZ6_125" 2 -510 60 H V C C N N
-F2 "digikey-footprints:SC-74" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 200 300 60 H I L C N N
-F4 "1727-3578-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "IP4220CZ6,125" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/IP4220CZ6,125/1727-3578-1-ND/1133548" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V 6TSOP" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SC-74" 800 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 800 300 60 H I L C N N
+F4 "1727-3578-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "IP4220CZ6,125" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/IP4220CZ6,125/1727-3578-1-ND/1133548" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 6TSOP" 800 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -250 -225 10 0 1 0 F
 C -250 -100 10 0 1 0 F
@@ -123,17 +123,17 @@ ENDDEF
 DEF PESD1CAN_215 D 0 0 Y Y 1 F N
 F0 "D" -200 240 60 H V L C N N
 F1 "PESD1CAN_215" 0 -250 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 200 300 60 H I L C N N
-F4 "1727-3817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PESD1CAN,215" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/PESD1CAN,215/1727-3817-1-ND/1530822" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 24V 70V SOT23" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 600 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 600 300 60 H I L C N N
+F4 "1727-3817-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "PESD1CAN,215" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/PESD1CAN,215/1727-3817-1-ND/1530822" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 24V 70V SOT23" 600 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C 150 0 7 0 1 0 F
 S -200 200 200 -200 0 1 0 f
@@ -171,17 +171,17 @@ ENDDEF
 DEF PRTR5V0U2X_215 D 0 0 Y Y 1 F N
 F0 "D" -306 316 60 H V L C N N
 F1 "PRTR5V0U2X_215" 0 -308 60 H V C C N N
-F2 "digikey-footprints:TO-253-4" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" 200 300 60 H I L C N N
-F4 "1727-3884-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PRTR5V0U2X,215" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/PRTR5V0U2X,215/1727-3884-1-ND/1589981" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V SOT143B" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TO-253-4" 800 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" 800 300 60 H I L C N N
+F4 "1727-3884-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "PRTR5V0U2X,215" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/PRTR5V0U2X,215/1727-3884-1-ND/1589981" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V SOT143B" 800 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -250 25 7 0 1 0 F
 C -250 200 7 0 1 0 F
@@ -223,17 +223,17 @@ ENDDEF
 DEF PESD2CAN_215 D 0 0 Y Y 1 F N
 F0 "D" -210 240 60 H V L C N N
 F1 "PESD2CAN_215" 0 -250 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf" 200 300 60 H I L C N N
-F4 "1727-3891-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PESD2CAN,215" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nexperia-usa-inc/PESD2CAN,215/1727-3891-1-ND/1589996" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 24V 41V SOT23" 200 1000 60 H I L CNN "Description"
-F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 600 200 60 H I L C N N
+F3 "https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf" 600 300 60 H I L C N N
+F4 "1727-3891-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "PESD2CAN,215" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/PESD2CAN,215/1727-3891-1-ND/1589996" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 24V 41V SOT23" 600 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C 140 0 7 0 1 0 F
 S -200 200 190 -200 0 1 0 f
@@ -271,17 +271,17 @@ ENDDEF
 DEF TPD2E001DRLR D 0 0 Y Y 1 F N
 F0 "D" -310 315 60 H V L C N N
 F1 "TPD2E001DRLR" 130 -450 60 H V R C N N
-F2 "digikey-footprints:SOT-553" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 200 300 60 H I L C N N
-F4 "296-21883-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPD2E001DRLR" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPD2E001DRLR/296-21883-1-ND/1629242" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V SOT5" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-553" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 600 300 60 H I L C N N
+F4 "296-21883-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPD2E001DRLR" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPD2E001DRLR/296-21883-1-ND/1629242" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V SOT5" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C -150 -150 10 0 1 0 F
 C 0 -325 11 0 1 0 F
@@ -324,17 +324,17 @@ ENDDEF
 DEF TPD4S012DRYR D 0 40 Y Y 1 F N
 F0 "D" -205 40 60 H V L C N N
 F1 "TPD4S012DRYR" 15 -545 60 H V L C N N
-F2 "digikey-footprints:UFDFN-6_1.45x1mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 200 300 60 H I L C N N
-F4 "296-24244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPD4S012DRYR" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPD4S012DRYR/296-24244-1-ND/2037535" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V 6SON" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:UFDFN-6_1.45x1mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 600 300 60 H I L C N N
+F4 "296-24244-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPD4S012DRYR" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPD4S012DRYR/296-24244-1-ND/2037535" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 6SON" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 0 200 -500 0 1 0 f
 X D+ 1 -300 -200 100 R 50 50 1 1 I
@@ -351,17 +351,17 @@ ENDDEF
 DEF TPD2EUSB30DRTR D 0 0 Y Y 1 F N
 F0 "D" -210 205 60 H V L C N N
 F1 "TPD2EUSB30DRTR" 70 -220 60 H V L C N N
-F2 "digikey-footprints:SOT-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 200 300 60 H I L C N N
-F4 "296-25509-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPD2EUSB30DRTR" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPD2EUSB30DRTR/296-25509-1-ND/2193502" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V 8V SOT3" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-3" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 600 300 60 H I L C N N
+F4 "296-25509-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPD2EUSB30DRTR" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPD2EUSB30DRTR/296-25509-1-ND/2193502" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 8V SOT3" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C -110 0 5 1 1 0 N
 C 0 -135 5 1 1 0 N
@@ -401,17 +401,17 @@ ENDDEF
 DEF TPD1E10B06DPYR D 0 40 Y Y 1 F N
 F0 "D" -198 162 60 H V L C N N
 F1 "TPD1E10B06DPYR" 2 -166 60 H V C C N N
-F2 "digikey-footprints:XDFN-2_1x0.60mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 200 300 60 H I L C N N
-F4 "296-30406-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPD1E10B06DPYR" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPD1E10B06DPYR/296-30406-1-ND/3283560" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V 14V 2X1SON" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:XDFN-2_1x0.60mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 600 300 60 H I L C N N
+F4 "296-30406-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPD1E10B06DPYR" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPD1E10B06DPYR/296-30406-1-ND/3283560" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 14V 2X1SON" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -198 120 200 -116 0 1 0 f
 P 2 0 1 0 -125 -75 -100 -100 N
@@ -435,17 +435,17 @@ ENDDEF
 DEF USBLC6-4SC6 D 0 40 Y Y 1 F N
 F0 "D" -400 380 60 H V L C N N
 F1 "USBLC6-4SC6" 0 -440 60 H V C C N N
-F2 "digikey-footprints:SOT23-6L" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf" 200 300 60 H I L C N N
-F4 "497-4492-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "USBLC6-4SC6" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/USBLC6-4SC6/497-4492-1-ND/725667" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.25V 17V SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT23-6L" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf" 800 300 60 H I L C N N
+F4 "497-4492-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "USBLC6-4SC6" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/USBLC6-4SC6/497-4492-1-ND/725667" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.25V 17V SOT23-6" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -326 126 8 0 1 0 F
 C -324 -124 8 0 1 0 F
@@ -511,17 +511,17 @@ ENDDEF
 DEF USBLC6-2SC6 D 0 40 Y Y 1 F N
 F0 "D" -400 550 60 H V L C N N
 F1 "USBLC6-2SC6" 0 -550 60 H V C C N N
-F2 "digikey-footprints:SOT23-6L" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf" 200 300 60 H I L C N N
-F4 "497-5235-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "USBLC6-2SC6" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/USBLC6-2SC6/497-5235-1-ND/1121688" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.25V 17V SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT23-6L" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf" 800 300 60 H I L C N N
+F4 "497-5235-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "USBLC6-2SC6" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/USBLC6-2SC6/497-5235-1-ND/1121688" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.25V 17V SOT23-6" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -276 226 8 0 1 0 F
 C -274 -224 8 0 1 0 F
@@ -590,17 +590,17 @@ ENDDEF
 DEF CDSOT23-SM712 D 0 0 Y Y 1 F N
 F0 "D" -195 235 60 H V C C N N
 F1 "CDSOT23-SM712" 0 -250 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 300 60 H I L C N N
-F4 "CDSOT23-SM712CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "CDSOT23-SM712" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 7V/12V 14V/26V SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 700 200 60 H I L C N N
+F3 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 700 300 60 H I L C N N
+F4 "CDSOT23-SM712CT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "CDSOT23-SM712" 700 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 700 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 700 700 60 H I L CNN "Family"
+F8 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 7V/12V 14V/26V SOT23-3" 700 1000 60 H I L CNN "Description"
+F11 "Bourns Inc." 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -234 200 164 -200 0 1 0 f
 P 2 0 1 0 -150 -150 -125 -175 N
@@ -645,17 +645,17 @@ ENDDEF
 DEF ESD5Z3_3T1G D 0 40 Y Y 1 F N
 F0 "D" 0 150 60 H V C C N N
 F1 "ESD5Z3_3T1G" 0 -150 60 H V C C N N
-F2 "digikey-footprints:SOD-523" 200 200 60 H I L C N N
-F3 "https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 200 300 60 H I L C N N
-F4 "ESD5Z3.3T1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ESD5Z3.3T1G" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/ESD5Z3.3T1G/ESD5Z3.3T1GOSCT-ND/1967044" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 3.3V 14.1V SOD523" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOD-523" 500 200 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 500 300 60 H I L C N N
+F4 "ESD5Z3.3T1GOSCT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ESD5Z3.3T1G" 500 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 500 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 500 700 60 H I L CNN "Family"
+F8 "https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/ESD5Z3.3T1G/ESD5Z3.3T1GOSCT-ND/1967044" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 3.3V 14.1V SOD523" 500 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
 P 4 0 1 0 100 100 50 50 50 -50 0 -100 N
@@ -669,17 +669,17 @@ ENDDEF
 DEF PGB1010603MR D 0 40 Y Y 1 F N
 F0 "D" -216 108 60 H V L C N N
 F1 "PGB1010603MR" 4 -130 60 H V C C N N
-F2 "digikey-footprints:0603" 200 200 60 H I L C N N
-F3 "https://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf" 200 300 60 H I L C N N
-F4 "F2594CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PGB1010603MR" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/littelfuse-inc/PGB1010603MR/F2594CT-ND/813072" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 24V 150V 0603" 200 1000 60 H I L CNN "Description"
-F11 "Littelfuse Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:0603" 500 200 60 H I L C N N
+F3 "https://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf" 500 300 60 H I L C N N
+F4 "F2594CT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "PGB1010603MR" 500 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 500 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 500 700 60 H I L CNN "Family"
+F8 "https://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/littelfuse-inc/PGB1010603MR/F2594CT-ND/813072" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 24V 150V 0603" 500 1000 60 H I L CNN "Description"
+F11 "Littelfuse Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 P 3 0 1 0 0 0 0 -50 -25 -75 N
 P 3 0 1 0 0 0 0 50 25 75 N
@@ -695,17 +695,17 @@ ENDDEF
 DEF SP0503BAHTG D 0 40 Y Y 1 F N
 F0 "D" -210 200 60 H V L C N N
 F1 "SP0503BAHTG" 0 -220 60 H V C C N N
-F2 "digikey-footprints:SOT-143-4" 200 200 60 H I L C N N
-F3 "https://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" 200 300 60 H I L C N N
-F4 "F2715CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SP0503BAHTG" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/littelfuse-inc/SP0503BAHTG/F2715CT-ND/1154322" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5.5V 8.5V SOT143-4" 200 1000 60 H I L CNN "Description"
-F11 "Littelfuse Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-143-4" 500 200 60 H I L C N N
+F3 "https://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" 500 300 60 H I L C N N
+F4 "F2715CT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "SP0503BAHTG" 500 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 500 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 500 700 60 H I L CNN "Family"
+F8 "https://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/littelfuse-inc/SP0503BAHTG/F2715CT-ND/1154322" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 8.5V SOT143-4" 500 1000 60 H I L CNN "Description"
+F11 "Littelfuse Inc." 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 C -50 -100 10 0 1 0 F
 C -50 100 10 0 1 0 F
@@ -734,17 +734,17 @@ ENDDEF
 DEF NUP2105LT1G D 0 40 Y Y 1 F N
 F0 "D" -190 230 60 H V L C N N
 F1 "NUP2105LT1G" 0 -250 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF" 200 300 60 H I L C N N
-F4 "NUP2105LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "NUP2105LT1G" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/NUP2105LT1G/NUP2105LT1GOSCT-ND/1485001" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 24V 44V SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 500 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF" 500 300 60 H I L C N N
+F4 "NUP2105LT1GOSCT-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "NUP2105LT1G" 500 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 500 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 500 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/NUP2105LT1G/NUP2105LT1GOSCT-ND/1485001" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 24V 44V SOT23-3" 500 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -250 -100 -125 -100 N
 P 2 0 1 0 -125 100 -250 100 N
@@ -773,17 +773,17 @@ ENDDEF
 DEF RCLAMP0504S_TCT D 0 40 Y Y 1 F N
 F0 "D" -210 292 60 H V L C N N
 F1 "RCLAMP0504S_TCT" 0 -293 60 H V C C N N
-F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/rclamp0504s.pdf" 200 300 60 H I L C N N
-F4 "RCLAMP0504SCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "RCLAMP0504S.TCT" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/rclamp0504s.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/semtech-corporation/RCLAMP0504S.TCT/RCLAMP0504SCT-ND/1000961" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5V 25V SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-6" 600 200 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/rclamp0504s.pdf" 600 300 60 H I L C N N
+F4 "RCLAMP0504SCT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCLAMP0504S.TCT" 600 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 600 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 600 700 60 H I L CNN "Family"
+F8 "https://www.semtech.com/uploads/documents/rclamp0504s.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/semtech-corporation/RCLAMP0504S.TCT/RCLAMP0504SCT-ND/1000961" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5V 25V SOT23-6" 600 1000 60 H I L CNN "Description"
+F11 "Semtech Corporation" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C -150 -200 10 0 1 0 F
 C -150 -100 10 0 1 0 F
@@ -848,17 +848,17 @@ ENDDEF
 DEF RCLAMP0524PATCT D 0 40 Y Y 1 F N
 F0 "D" -413 539 60 H V L C N N
 F1 "RCLAMP0524PATCT" -1 -553 60 H V C C N N
-F2 "digikey-footprints:UFDFN-10_2.5x1mm" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf" 200 300 60 H I L C N N
-F4 "RCLAMP0524PACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "RCLAMP0524PATCT" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/semtech-corporation/RCLAMP0524PATCT/RCLAMP0524PACT-ND/2603616" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5V 15V SLP2510P8" 200 1000 60 H I L CNN "Description"
-F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:UFDFN-10_2.5x1mm" 800 200 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf" 800 300 60 H I L C N N
+F4 "RCLAMP0524PACT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCLAMP0524PATCT" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/semtech-corporation/RCLAMP0524PATCT/RCLAMP0524PACT-ND/2603616" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5V 15V SLP2510P8" 800 1000 60 H I L CNN "Description"
+F11 "Semtech Corporation" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -326 226 8 0 1 0 F
 C -325 -100 5 0 1 0 N
@@ -931,17 +931,17 @@ ENDDEF
 DEF RCLAMP0524P_TCT_NRND D 0 40 Y Y 1 F N
 F0 "D" -413 539 60 H V L C N N
 F1 "RCLAMP0524P_TCT_NRND" -1 -553 60 H V C C N N
-F2 "digikey-footprints:UFDFN-10_2.5x1mm" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf" 200 300 60 H I L C N N
-F4 "RCLAMP0524PCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "RCLAMP0524P.TCT" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/semtech-corporation/RCLAMP0524P.TCT/RCLAMP0524PCT-ND/1774679" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5V 15V SLP2510P8" 200 1000 60 H I L CNN "Description"
-F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:UFDFN-10_2.5x1mm" 800 200 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf" 800 300 60 H I L C N N
+F4 "RCLAMP0524PCT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCLAMP0524P.TCT" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/semtech-corporation/RCLAMP0524P.TCT/RCLAMP0524PCT-ND/1774679" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5V 15V SLP2510P8" 800 1000 60 H I L CNN "Description"
+F11 "Semtech Corporation" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Not For New Designs" 800 1200 60 H I L CNN "Status"
 DRAW
 C -326 226 8 0 1 0 F
 C -325 -100 5 0 1 0 N
@@ -1014,17 +1014,17 @@ ENDDEF
 DEF SM712_TCT D 0 0 Y Y 1 F N
 F0 "D" -170 210 60 H V L C N N
 F1 "SM712_TCT" -20 -220 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/sm712.pdf" 200 300 60 H I L C N N
-F4 "SM712CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SM712.TCT" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/sm712.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/semtech-corporation/SM712.TCT/SM712CT-ND/1000976" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 12V/7V 26V/12V SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-3" 640 200 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/sm712.pdf" 640 300 60 H I L C N N
+F4 "SM712CT-ND" 640 400 60 H I L CNN "Digi-Key_PN"
+F5 "SM712.TCT" 640 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 640 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 640 700 60 H I L CNN "Family"
+F8 "https://www.semtech.com/uploads/documents/sm712.pdf" 640 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/semtech-corporation/SM712.TCT/SM712CT-ND/1000976" 640 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 12V/7V 26V/12V SOT23-3" 640 1000 60 H I L CNN "Description"
+F11 "Semtech Corporation" 640 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 640 1200 60 H I L CNN "Status"
 DRAW
 S -158 170 114 -170 0 1 0 f
 P 2 0 1 0 -60 -100 -260 -100 N
@@ -1063,17 +1063,17 @@ ENDDEF
 DEF SRV05-4_TCT D 0 40 Y Y 1 F N
 F0 "D" -410 365 60 H V L C N N
 F1 "SRV05-4_TCT" 0 -450 60 H V C C N N
-F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/srv05-4.pdf" 200 300 60 H I L C N N
-F4 "SRV05-4CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SRV05-4.TCT" 200 500 60 H I L CNN "MPN"
-F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
-F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/srv05-4.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/semtech-corporation/SRV05-4.TCT/SRV05-4CT-ND/1000987" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TVS DIODE 5V 17.5V SOT23-6" 200 1000 60 H I L CNN "Description"
-F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOT-23-6" 800 200 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/srv05-4.pdf" 800 300 60 H I L C N N
+F4 "SRV05-4CT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "SRV05-4.TCT" 800 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 800 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 800 700 60 H I L CNN "Family"
+F8 "https://www.semtech.com/uploads/documents/srv05-4.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/semtech-corporation/SRV05-4.TCT/SRV05-4CT-ND/1000987" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5V 17.5V SOT23-6" 800 1000 60 H I L CNN "Description"
+F11 "Semtech Corporation" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 C -326 126 8 0 1 0 F
 C -324 -124 8 0 1 0 F

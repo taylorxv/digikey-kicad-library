@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 6N137 U 0 0 Y Y 1 F N
 F0 "U" -300 250 60 H V C C N N
 F1 "6N137" 100 -250 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 300 60 H I L C N N
-F4 "160-1791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "6N137" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/6N137/160-1791-ND/1969175" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 5KV 1CH OPEN COLL 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 700 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 700 300 60 H I L C N N
+F4 "160-1791-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "6N137" 700 500 60 H I L CNN "MPN"
+F6 "Isolators" 700 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 700 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/6N137/160-1791-ND/1969175" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 5KV 1CH OPEN COLL 8DIP" 700 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 A 110 -40 40 -899 899 0 1 0 N 110 -80 110 0
 S -250 150 250 -150 0 1 0 f
@@ -73,17 +73,17 @@ ENDDEF
 DEF H11L1M U 0 0 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "H11L1M" 125 -250 60 H V L C N N
-F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/H11L3M-D.pdf" 200 300 60 H I L C N N
-F4 "H11L1-MQT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "H11L1M" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/H11L3M-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/H11L1M/H11L1-MQT-ND/284866" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 4.17KV OPN COLL 6DIP" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-6_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/H11L3M-D.pdf" 600 300 60 H I L C N N
+F4 "H11L1-MQT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "H11L1M" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 600 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/H11L3M-D.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/H11L1M/H11L1-MQT-ND/284866" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 4.17KV OPN COLL 6DIP" 600 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 A 50 0 50 -899 899 0 1 0 N 50 -50 50 50
 C 100 0 0 0 1 0 N
@@ -114,17 +114,17 @@ ENDDEF
 DEF TLP2361_TPL_E U 0 0 Y Y 1 F N
 F0 "U" -300 300 60 H V C C N N
 F1 "TLP2361_TPL_E" 100 -225 60 H V L C N N
-F2 "digikey-footprints:SOIC-6-5_W4.55mm" 200 200 60 H I L C N N
-F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 200 300 60 H I L C N N
-F4 "TLP2361(TPLECT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TLP2361(TPL,E" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
-F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/toshiba-semiconductor-and-storage/TLP2361(TPL,E/TLP2361(TPLECT-ND/5189799" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 3.75KV PSH PULL SO6-5" 200 1000 60 H I L CNN "Description"
-F11 "Toshiba Semiconductor and Storage" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-6-5_W4.55mm" 600 200 60 H I L C N N
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 600 300 60 H I L C N N
+F4 "TLP2361(TPLECT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "TLP2361(TPL,E" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 600 700 60 H I L CNN "Family"
+F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/toshiba-semiconductor-and-storage/TLP2361(TPL,E/TLP2361(TPLECT-ND/5189799" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 3.75KV PSH PULL SO6-5" 600 1000 60 H I L CNN "Description"
+F11 "Toshiba Semiconductor and Storage" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 A 45 0 50 843 -843 0 1 0 N 50 50 50 -50
 C 105 0 11 0 1 0 N

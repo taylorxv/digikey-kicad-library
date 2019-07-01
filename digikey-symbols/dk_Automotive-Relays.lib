@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF JSM1-12V-5 RLY 0 1 Y N 1 F N
 F0 "RLY" -150 200 60 H V L C N N
 F1 "JSM1-12V-5" 50 -350 60 H V C C N N
-F2 "digikey-footprints:Relay_JSM1-12V-5" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 200 300 60 H I L C N N
-F4 "255-1240-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "JSM1-12V-5" 200 500 60 H I L CNN "MPN"
-F6 "Relays" 200 600 60 H I L CNN "Category"
-F7 "Automotive Relays" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/panasonic-electric-works/JSM1-12V-5/255-1240-ND/274764" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "RELAY AUTOMOTIVE SPDT 15A 12V" 200 1000 60 H I L CNN "Description"
-F11 "Panasonic Electric Works" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Relay_JSM1-12V-5" 700 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 700 300 60 H I L C N N
+F4 "255-1240-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "JSM1-12V-5" 700 500 60 H I L CNN "MPN"
+F6 "Relays" 700 600 60 H I L CNN "Category"
+F7 "Automotive Relays" 700 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/panasonic-electric-works/JSM1-12V-5/255-1240-ND/274764" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY AUTOMOTIVE SPDT 15A 12V" 700 1000 60 H I L CNN "Description"
+F11 "Panasonic Electric Works" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 A -88 -37 62 -1265 -528 0 1 0 N -125 -87 -50 -87
 A -87 -137 62 535 1272 0 1 0 N -50 -87 -125 -87

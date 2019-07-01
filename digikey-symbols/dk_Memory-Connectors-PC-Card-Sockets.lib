@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 2908-05WB-MG J 0 40 Y Y 1 F N
 F0 "J" -500 500 60 H V C C N N
 F1 "2908-05WB-MG" 0 -400 60 V V L C N N
-F2 "digikey-footprints:MicroSD_2908-05WB-MG" 200 200 60 H I L C N N
-F3 "http://multimedia.3m.com/mws/media/416257O/3mtm-card-connector-microsdtm-2900-series-ts2197.pdf" 200 300 60 H I L C N N
-F4 "3M5607CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "2908-05WB-MG" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Memory Connectors - PC Card Sockets" 200 700 60 H I L CNN "Family"
-F8 "http://multimedia.3m.com/mws/media/416257O/3mtm-card-connector-microsdtm-2900-series-ts2197.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/3m/2908-05WB-MG/3M5607CT-ND/1242498" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "CONN MICRO SD CARD PUSH-PUSH R/A" 200 1000 60 H I L CNN "Description"
-F11 "3M" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:MicroSD_2908-05WB-MG" 900 200 60 H I L C N N
+F3 "http://multimedia.3m.com/mws/media/416257O/3mtm-card-connector-microsdtm-2900-series-ts2197.pdf" 900 300 60 H I L C N N
+F4 "3M5607CT-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "2908-05WB-MG" 900 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 900 600 60 H I L CNN "Category"
+F7 "Memory Connectors - PC Card Sockets" 900 700 60 H I L CNN "Family"
+F8 "http://multimedia.3m.com/mws/media/416257O/3mtm-card-connector-microsdtm-2900-series-ts2197.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/3m/2908-05WB-MG/3M5607CT-ND/1242498" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MICRO SD CARD PUSH-PUSH R/A" 900 1000 60 H I L CNN "Description"
+F11 "3M" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 P 11 0 1 0 -500 -550 -500 400 -300 400 -200 500 -100 500 -100 400 0 400 100 500 600 500 600 -550 -500 -550 f
 X DAT2 1 -600 300 100 R 50 50 1 1 B
@@ -36,17 +36,17 @@ ENDDEF
 DEF 5045200691 J 0 40 Y Y 1 F N
 F0 "J" -200 400 60 H V C C N N
 F1 "5045200691" 200 -500 60 V V L C N N
-F2 "digikey-footprints:SIM_Nano_5045200691" 200 200 60 H I L C N N
-F3 "https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf" 200 300 60 H I L C N N
-F4 "WM12731CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "5045200691" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Memory Connectors - PC Card Sockets" 200 700 60 H I L CNN "Family"
-F8 "https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/molex/5045200691/WM12731CT-ND/5822267" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "NANO-SIM CARD CONNECTOR, PIN-EJE" 200 1000 60 H I L CNN "Description"
-F11 "Molex" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SIM_Nano_5045200691" 400 200 60 H I L C N N
+F3 "https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf" 400 300 60 H I L C N N
+F4 "WM12731CT-ND" 400 400 60 H I L CNN "Digi-Key_PN"
+F5 "5045200691" 400 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 400 600 60 H I L CNN "Category"
+F7 "Memory Connectors - PC Card Sockets" 400 700 60 H I L CNN "Family"
+F8 "https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf" 400 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/molex/5045200691/WM12731CT-ND/5822267" 400 900 60 H I L CNN "DK_Detail_Page"
+F10 "NANO-SIM CARD CONNECTOR, PIN-EJE" 400 1000 60 H I L CNN "Description"
+F11 "Molex" 400 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 400 1200 60 H I L CNN "Status"
 DRAW
 S -100 300 100 -400 0 1 0 f
 X GND 8 0 -500 100 U 50 50 1 1 W
@@ -64,17 +64,17 @@ ENDDEF
 DEF 0473080001_Obsolete J 0 40 Y Y 1 F N
 F0 "J" 0 250 60 H V C C N N
 F1 "0473080001_Obsolete" 300 -500 60 V V L C N N
-F2 "digikey-footprints:SIM_473080001" 200 200 60 H I L C N N
-F3 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 200 300 60 H I L C N N
-F4 "WM6699CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "0473080001" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Memory Connectors - PC Card Sockets" 200 700 60 H I L CNN "Family"
-F8 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/molex/0473080001/WM6699CT-ND/3044148" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "CONN SIM CARD PUSH-PULL R/A SMD" 200 1000 60 H I L CNN "Description"
-F11 "Molex" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SIM_473080001" 700 200 60 H I L C N N
+F3 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 700 300 60 H I L C N N
+F4 "WM6699CT-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "0473080001" 700 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 700 600 60 H I L CNN "Category"
+F7 "Memory Connectors - PC Card Sockets" 700 700 60 H I L CNN "Family"
+F8 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/molex/0473080001/WM6699CT-ND/3044148" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN SIM CARD PUSH-PULL R/A SMD" 700 1000 60 H I L CNN "Description"
+F11 "Molex" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 700 1200 60 H I L CNN "Status"
 DRAW
 P 8 0 1 0 -200 100 -100 200 400 200 400 -100 400 -300 400 -600 -200 -600 -200 100 f
 X C1 1 -300 100 100 R 50 50 1 1 B
@@ -92,17 +92,17 @@ ENDDEF
 DEF 0787231001 J 0 40 Y Y 1 F N
 F0 "J" -300 350 60 H V C C N N
 F1 "0787231001" 200 -500 60 V V L C N N
-F2 "digikey-footprints:SD_Holder_787231001" 200 200 60 H I L C N N
-F3 "https://www.molex.com/pdm_docs/sd/787231001_sd.pdf" 200 300 60 H I L C N N
-F4 "WM9259CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "0787231001" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Memory Connectors - PC Card Sockets" 200 700 60 H I L CNN "Family"
-F8 "https://www.molex.com/pdm_docs/sd/787231001_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/molex/0787231001/WM9259CT-ND/3586469" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "CONN MICRO SIM CARD PUSH-PULL" 200 1000 60 H I L CNN "Description"
-F11 "Molex" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SD_Holder_787231001" 600 200 60 H I L C N N
+F3 "https://www.molex.com/pdm_docs/sd/787231001_sd.pdf" 600 300 60 H I L C N N
+F4 "WM9259CT-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "0787231001" 600 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 600 600 60 H I L CNN "Category"
+F7 "Memory Connectors - PC Card Sockets" 600 700 60 H I L CNN "Family"
+F8 "https://www.molex.com/pdm_docs/sd/787231001_sd.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/molex/0787231001/WM9259CT-ND/3586469" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MICRO SIM CARD PUSH-PULL" 600 1000 60 H I L CNN "Description"
+F11 "Molex" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 A -151 -200 49 1800 -889 1 1 0 N -200 -200 -150 -250
 A -151 100 49 1800 889 1 1 0 N -200 100 -150 150

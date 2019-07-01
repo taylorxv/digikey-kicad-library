@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF BC9VPC BAT 0 40 Y Y 1 F N
 F0 "BAT" 0 200 60 H V C C N N
 F1 "BC9VPC" 0 -200 60 H V C C N N
-F2 "digikey-footprints:Battery_Holder_9V_BC9VPC-ND" 200 200 60 H I L C N N
-F3 "http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf" 200 300 60 H I L C N N
-F4 "BC9VPC-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BC9VPC" 200 500 60 H I L CNN "MPN"
-F6 "Battery Products" 200 600 60 H I L CNN "Category"
-F7 "Battery Holders, Clips, Contacts" 200 700 60 H I L CNN "Family"
-F8 "http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/mpd-memory-protection-devices/BC9VPC/BC9VPC-ND/257747" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "BATTERY HOLDER 9V PC PIN" 200 1000 60 H I L CNN "Description"
-F11 "MPD (Memory Protection Devices)" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Battery_Holder_9V_BC9VPC-ND" 600 200 60 H I L C N N
+F3 "http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf" 600 300 60 H I L C N N
+F4 "BC9VPC-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "BC9VPC" 600 500 60 H I L CNN "MPN"
+F6 "Battery Products" 600 600 60 H I L CNN "Category"
+F7 "Battery Holders, Clips, Contacts" 600 700 60 H I L CNN "Family"
+F8 "http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/mpd-memory-protection-devices/BC9VPC/BC9VPC-ND/257747" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "BATTERY HOLDER 9V PC PIN" 600 1000 60 H I L CNN "Description"
+F11 "MPD (Memory Protection Devices)" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 P 2 1 1 0 -110 120 -110 80 N
 P 2 1 1 0 -90 100 -130 100 N
@@ -36,17 +36,17 @@ ENDDEF
 DEF BS-7 BAT 0 40 N Y 1 F N
 F0 "BAT" -50 150 60 H V R C N N
 F1 "BS-7" -50 -150 60 H V R C N N
-F2 "digikey-footprints:Battery_Holder_Coin_2032_BS-7" 200 200 60 H I L C N N
-F3 "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf" 200 300 60 V I L C N N
-F4 "BS-7-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BS-7" 200 500 60 H I L CNN "MPN"
-F6 "Battery Products" 200 600 60 H I L CNN "Category"
-F7 "Battery Holders, Clips, Contacts" 200 700 60 H I L CNN "Family"
-F8 "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/mpd-memory-protection-devices/BS-7/BS-7-ND/389447" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "BATTERY HOLDER COIN 20MM PC PIN" 200 1000 60 H I L CNN "Description"
-F11 "MPD (Memory Protection Devices)" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Battery_Holder_Coin_2032_BS-7" 400 200 60 H I L C N N
+F3 "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf" 400 300 60 V I L C N N
+F4 "BS-7-ND" 400 400 60 H I L CNN "Digi-Key_PN"
+F5 "BS-7" 400 500 60 H I L CNN "MPN"
+F6 "Battery Products" 400 600 60 H I L CNN "Category"
+F7 "Battery Holders, Clips, Contacts" 400 700 60 H I L CNN "Family"
+F8 "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf" 400 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/mpd-memory-protection-devices/BS-7/BS-7-ND/389447" 400 900 60 H I L CNN "DK_Detail_Page"
+F10 "BATTERY HOLDER COIN 20MM PC PIN" 400 1000 60 H I L CNN "Description"
+F11 "MPD (Memory Protection Devices)" 400 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 400 1200 60 H I L CNN "Status"
 DRAW
 P 2 1 1 0 0 -100 0 -75 N
 P 2 1 1 0 0 75 0 100 N

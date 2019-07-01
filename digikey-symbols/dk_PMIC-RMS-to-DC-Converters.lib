@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF AD736JNZ U 0 40 Y Y 1 F N
 F0 "U" -305 236 60 H V L C N N
 F1 "AD736JNZ" 7 -342 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 300 60 H I L C N N
-F4 "AD736JNZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "AD736JNZ" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - RMS to DC Converters" 200 700 60 H I L CNN "Family"
-F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/analog-devices-inc/AD736JNZ/AD736JNZ-ND/751028" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRUE RMS/DC CONV LP 8-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 700 200 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 700 300 60 H I L C N N
+F4 "AD736JNZ-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD736JNZ" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - RMS to DC Converters" 700 700 60 H I L CNN "Family"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD736JNZ/AD736JNZ-ND/751028" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRUE RMS/DC CONV LP 8-DIP" 700 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 200 300 -300 0 1 0 f
 X CC 1 -400 100 100 R 50 50 1 1 I
@@ -35,17 +35,17 @@ ENDDEF
 DEF LTC1966CMS8_PBF U 0 40 Y Y 1 F N
 F0 "U" -407 134 60 H V L C N N
 F1 "LTC1966CMS8_PBF" 17 -645 60 H V L C N N
-F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/3396" 200 300 60 H I L C N N
-F4 "LTC1966CMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTC1966CMS8#PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - RMS to DC Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/3396" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LTC1966CMS8-PBF/LTC1966CMS8-PBF-ND/807753" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PREC RMS/DC CONV MCRPWR 8MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-8_W3mm" 600 200 60 H I L C N N
+F3 "http://www.linear.com/docs/3396" 600 300 60 H I L C N N
+F4 "LTC1966CMS8#PBF-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC1966CMS8#PBF" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "PMIC - RMS to DC Converters" 600 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/3396" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC1966CMS8-PBF/LTC1966CMS8-PBF-ND/807753" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PREC RMS/DC CONV MCRPWR 8MSOP" 600 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 100 200 -600 0 1 0 f
 X GND 1 -100 -700 100 U 50 50 1 1 W
@@ -64,17 +64,17 @@ ENDDEF
 DEF LTC1968CMS8_PBF U 0 40 Y Y 1 F N
 F0 "U" -405 41 60 H V L C N N
 F1 "LTC1968CMS8_PBF" 14 -643 60 H V L C N N
-F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/5090" 200 300 60 H I L C N N
-F4 "LTC1968CMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTC1968CMS8#PBF" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - RMS to DC Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/5090" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LTC1968CMS8-PBF/LTC1968CMS8-PBF-ND/963602" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC CONVERTER RMS-DC PREC 8MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-8_W3mm" 700 200 60 H I L C N N
+F3 "http://www.linear.com/docs/5090" 700 300 60 H I L C N N
+F4 "LTC1968CMS8#PBF-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC1968CMS8#PBF" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "PMIC - RMS to DC Converters" 700 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/5090" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC1968CMS8-PBF/LTC1968CMS8-PBF-ND/963602" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CONVERTER RMS-DC PREC 8MSOP" 700 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -400 0 300 -600 0 1 0 f
 X GND 1 0 -700 100 U 50 50 1 1 W

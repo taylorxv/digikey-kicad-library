@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF COM-12999 D 0 40 Y Y 1 F N
 F0 "D" -300 300 60 H V C C N N
 F1 "COM-12999" 300 -300 60 H V C C N N
-F2 "digikey-footprints:LED_RGB_WP154A4SUREQBFZGC" 200 200 60 H I L C N N
-F3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" 200 300 60 H I L C N N
-F4 "1568-1214-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "COM-12999" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Addressable, Specialty" 200 700 60 H I L CNN "Family"
-F8 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/sparkfun-electronics/COM-12999/1568-1214-ND/5673800" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "ADDRESS LED DISC SER RGB 5MM 5PC" 200 1000 60 H I L CNN "Description"
-F11 "SparkFun Electronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_RGB_WP154A4SUREQBFZGC" 700 200 60 H I L C N N
+F3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" 700 300 60 H I L C N N
+F4 "1568-1214-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "COM-12999" 700 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 700 600 60 H I L CNN "Category"
+F7 "Addressable, Specialty" 700 700 60 H I L CNN "Family"
+F8 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sparkfun-electronics/COM-12999/1568-1214-ND/5673800" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "ADDRESS LED DISC SER RGB 5MM 5PC" 700 1000 60 H I L CNN "Description"
+F11 "SparkFun Electronics" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 200 200 -200 0 1 0 f
 X DIN 1 -500 0 200 R 50 50 1 1 I
@@ -31,17 +31,17 @@ ENDDEF
 DEF 28086 D 0 40 Y Y 1 F N
 F0 "D" -250 200 60 H V L C N N
 F1 "28086" 150 -350 60 H V L B N N
-F2 "digikey-footprints:LED_Breakout_Parallax_WS2812B" 200 200 60 H I L C N N
-F3 "https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 200 300 60 H I L C N N
-F4 "28086-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "28086" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "Addressable, Specialty" 200 700 60 H I L CNN "Family"
-F8 "https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/parallax-inc/28086/28086-ND/5030529" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "ADDRESS LED MODULE SER RGB 10PK" 200 1000 60 H I L CNN "Description"
-F11 "Parallax Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_Breakout_Parallax_WS2812B" 800 200 60 H I L C N N
+F3 "https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 800 300 60 H I L C N N
+F4 "28086-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "28086" 800 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 800 600 60 H I L CNN "Category"
+F7 "Addressable, Specialty" 800 700 60 H I L CNN "Family"
+F8 "https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/parallax-inc/28086/28086-ND/5030529" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "ADDRESS LED MODULE SER RGB 10PK" 800 1000 60 H I L CNN "Description"
+F11 "Parallax Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -250 150 350 -250 0 1 0 f
 X SI 1 -400 0 150 R 50 50 1 1 I

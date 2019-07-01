@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF X000048 U 0 40 Y Y 1 F N
 F0 "U" -400 750 60 H V L C N N
 F1 "X000048" -100 -200 60 V V C C N N
-F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
-F3 "" 200 300 60 H I L C N N
-F4 "1050-1019-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "X000048" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/arduino/X000048/1050-1019-ND/2639007" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
-F11 "Arduino" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-28_W7.62mm" 600 200 60 H I L C N N
+F3 "" 600 300 60 H I L C N N
+F4 "1050-1019-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "X000048" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/arduino/X000048/1050-1019-ND/2639007" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 28DIP" 600 1000 60 H I L CNN "Description"
+F11 "Arduino" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 700 200 -850 0 1 0 f
 X PC6 1 300 -400 100 L 50 50 1 1 B
@@ -55,17 +55,17 @@ ENDDEF
 DEF W7500 U 0 40 Y Y 1 F N
 F0 "U" -507 1238 60 H V L C N N
 F1 "W7500" 46 -342 60 V V C C N N
-F2 "digikey-footprints:TQFP-64_7x7mm" 200 200 60 H I L C N N
-F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w7500:w7500_ds_v102_151028.pdf" 200 300 60 H I L C N N
-F4 "1278-1026-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "W7500" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w7500:w7500_ds_v102_151028.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/wiznet/W7500/1278-1026-ND/5402374" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 128KB FLASH 64TQFP" 200 1000 60 H I L CNN "Description"
-F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-64_7x7mm" 1000 200 60 H I L C N N
+F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w7500:w7500_ds_v102_151028.pdf" 1000 300 60 H I L C N N
+F4 "1278-1026-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "W7500" 1000 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1000 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 1000 700 60 H I L CNN "Family"
+F8 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w7500:w7500_ds_v102_151028.pdf" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/wiznet/W7500/1278-1026-ND/5402374" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 128KB FLASH 64TQFP" 1000 1000 60 H I L CNN "Description"
+F11 "WIZnet" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -500 1200 600 -1900 0 1 0 f
 X PWM0/CAP0 1 -600 1000 100 R 50 50 1 1 B
@@ -140,17 +140,17 @@ ENDDEF
 DEF MSP430G2553IN20 U 0 40 Y Y 1 F N
 F0 "U" -300 950 60 H V L C N N
 F1 "MSP430G2553IN20" 250 -50 60 V V C C N N
-F2 "digikey-footprints:DIP-20_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 200 300 60 H I L C N N
-F4 "296-28429-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MSP430G2553IN20" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/MSP430G2553IN20/296-28429-5-ND/2638885" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 16BIT 16KB FLASH 20DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-20_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 600 300 60 H I L C N N
+F4 "296-28429-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "MSP430G2553IN20" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/MSP430G2553IN20/296-28429-5-ND/2638885" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 16BIT 16KB FLASH 20DIP" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 900 300 -1000 0 1 0 f
 X DVCC 1 100 1000 100 D 50 50 1 1 W
@@ -181,17 +181,17 @@ ENDDEF
 DEF STM32F407VGT6 U 0 40 Y Y 1 F N
 F0 "U" -700 2400 60 H V L C N N
 F1 "STM32F407VGT6" 0 -100 60 V V C C N N
-F2 "digikey-footprints:LQFP-100_14x14mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 300 60 H I L C N N
-F4 "497-11605-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "STM32F407VGT6" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/STM32F407VGT6/497-11605-ND/2747117" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 1MB FLASH 100LQFP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LQFP-100_14x14mm" 1000 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 1000 300 60 H I L C N N
+F4 "497-11605-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "STM32F407VGT6" 1000 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1000 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 1000 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/STM32F407VGT6/497-11605-ND/2747117" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 1MB FLASH 100LQFP" 1000 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -550 2350 550 -2950 0 1 0 f
 X PE2 1 700 -800 150 L 50 50 1 1 B
@@ -302,17 +302,17 @@ ENDDEF
 DEF STM32F405RGT6 U 0 40 Y Y 1 F N
 F0 "U" -450 1800 60 H V L C N N
 F1 "STM32F405RGT6" -50 100 60 V V C C N N
-F2 "digikey-footprints:LQFP-64_10x10mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 300 60 H I L C N N
-F4 "497-11767-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "STM32F405RGT6" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/STM32F405RGT6/497-11767-ND/2754208" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 1MB FLASH 64LQFP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LQFP-64_10x10mm" 900 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 900 300 60 H I L C N N
+F4 "497-11767-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "STM32F405RGT6" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 900 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/STM32F405RGT6/497-11767-ND/2754208" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 1MB FLASH 64LQFP" 900 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -450 1750 450 -1450 0 1 0 f
 X VBAT 1 -200 1900 150 D 50 50 1 1 W
@@ -387,17 +387,17 @@ ENDDEF
 DEF STM32F030F4P6 U 0 40 Y Y 1 F N
 F0 "U" -300 450 60 H V L C N N
 F1 "STM32F030F4P6" 100 -400 60 V V C C N N
-F2 "digikey-footprints:TSSOP-20_W4.4mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 300 60 H I L C N N
-F4 "497-14044-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "STM32F030F4P6" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/STM32F030F4P6/497-14044-5-ND/4357517" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 16KB FLASH 20TSSOP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TSSOP-20_W4.4mm" 900 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 900 300 60 H I L C N N
+F4 "497-14044-5-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "STM32F030F4P6" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 900 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/STM32F030F4P6/497-14044-5-ND/4357517" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 16KB FLASH 20TSSOP" 900 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -300 400 500 -1100 0 1 0 f
 X BOOT0 1 -400 -700 100 R 50 50 1 1 I
@@ -428,17 +428,17 @@ ENDDEF
 DEF STM32F030K6T6 U 0 40 Y Y 1 F N
 F0 "U" -353 739 60 H V C C N N
 F1 "STM32F030K6T6" 0 -300 60 V V C C N N
-F2 "digikey-footprints:LQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 300 60 H I L C N N
-F4 "497-14046-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "STM32F030K6T6" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/STM32F030K6T6/497-14046-ND/4494296" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 32KB FLASH 32LQFP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LQFP-32_7x7mm" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 800 300 60 H I L C N N
+F4 "497-14046-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "STM32F030K6T6" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/STM32F030K6T6/497-14046-ND/4494296" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 32KB FLASH 32LQFP" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 700 400 -1000 0 1 0 f
 X VDD 1 -100 800 100 D 50 50 1 1 W
@@ -481,17 +481,17 @@ ENDDEF
 DEF ATMEGA2560-16AU U 0 40 Y Y 2 L N
 F0 "U" 100 50 60 H V L C N N
 F1 "ATMEGA2560-16AU" 1000 -4200 60 V V L C N N
-F2 "digikey-footprints:TQFP-100_14x14mm" 200 200 60 H I L C N N
-F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_Summary.pdf" 200 300 60 H I L C N N
-F4 "ATMEGA2560-16AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA2560-16AU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_Summary.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA2560-16AU/ATMEGA2560-16AU-ND/735455" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 256KB FLASH 100TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-100_14x14mm" 2500 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_Summary.pdf" 2500 300 60 H I L C N N
+F4 "ATMEGA2560-16AU-ND" 2500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA2560-16AU" 2500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 2500 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 2500 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_Summary.pdf" 2500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA2560-16AU/ATMEGA2560-16AU-ND/735455" 2500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 256KB FLASH 100TQFP" 2500 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 2500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 2500 1200 60 H I L CNN "Status"
 DRAW
 S 50 0 2050 -4600 1 1 0 f
 X PG5(OC08) 1 -100 -100 150 R 50 50 1 1 B
@@ -603,17 +603,17 @@ ENDDEF
 DEF ATMEGA328-AU U 0 40 Y Y 1 F N
 F0 "U" -400 550 60 H V L C N N
 F1 "ATMEGA328-AU" 100 -1000 60 V V C C N N
-F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
-F4 "ATMEGA328-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328-AU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328-AU/ATMEGA328-AU-ND/2271029" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-32_7x7mm" 600 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 300 60 H I L C N N
+F4 "ATMEGA328-AU-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328-AU" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328-AU/ATMEGA328-AU-ND/2271029" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 600 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 500 300 -2200 0 1 0 f
 X PD3 1 -500 400 100 R 50 50 1 1 B
@@ -656,17 +656,17 @@ ENDDEF
 DEF ATMEGA328-PU U 0 40 Y Y 1 F N
 F0 "U" -400 1150 60 H V L C N N
 F1 "ATMEGA328-PU" -100 200 60 V V C C N N
-F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
-F4 "ATMEGA328-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328-PU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328-PU/ATMEGA328-PU-ND/2271026" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-28_W7.62mm" 600 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 300 60 H I L C N N
+F4 "ATMEGA328-PU-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328-PU" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328-PU/ATMEGA328-PU-ND/2271026" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 28DIP" 600 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 1100 200 -700 0 1 0 f
 X PC6 1 -500 -400 100 R 50 50 1 1 B
@@ -705,17 +705,17 @@ ENDDEF
 DEF ATMEGA328P-AU U 0 40 Y Y 1 F N
 F0 "U" -350 1500 60 H V L C N N
 F1 "ATMEGA328P-AU" 100 50 60 V V C C N N
-F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
-F4 "ATMEGA328P-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328P-AU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328P-AU/ATMEGA328P-AU-ND/1832260" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-32_7x7mm" 600 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 300 60 H I L C N N
+F4 "ATMEGA328P-AU-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328P-AU" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328P-AU/ATMEGA328P-AU-ND/1832260" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 600 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -350 1400 300 -1350 0 1 0 f
 X PD3 1 -500 1300 150 R 50 50 1 1 B
@@ -758,17 +758,17 @@ ENDDEF
 DEF ATMEGA328P-AUR U 0 40 Y Y 1 F N
 F0 "U" -400 950 50 H V L C N N
 F1 "ATMEGA328P-AUR" 150 -550 50 H V L C N N
-F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
-F4 "ATMEGA328P-AURCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328P-AUR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-32_7x7mm" 800 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 800 300 60 H I L C N N
+F4 "ATMEGA328P-AURCT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328P-AUR" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 800 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 800 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 900 400 -500 0 1 0 f
 X PD3 1 500 500 100 L 50 50 1 1 B
@@ -811,17 +811,17 @@ ENDDEF
 DEF ATMEGA328P-PU U 0 40 Y Y 1 F N
 F0 "U" -350 1300 60 H V L C N N
 F1 "ATMEGA328P-PU" 100 -50 60 V V C C N N
-F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
-F4 "ATMEGA328P-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328P-PU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-28_W7.62mm" 550 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 550 300 60 H I L C N N
+F4 "ATMEGA328P-PU-ND" 550 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328P-PU" 550 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 550 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 550 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 550 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589" 550 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 28DIP" 550 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 550 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 550 1200 60 H I L CNN "Status"
 DRAW
 S -350 1200 250 -1350 0 1 0 f
 X PC6 1 -500 1100 150 R 50 50 1 1 B
@@ -860,17 +860,17 @@ ENDDEF
 DEF ATMEGA328PB-AU U 0 40 Y Y 1 F N
 F0 "U" -400 550 60 H V L C N N
 F1 "ATMEGA328PB-AU" -100 -300 60 V V C C N N
-F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666" 200 300 60 H I L C N N
-F4 "ATMEGA328PB-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA328PB-AU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-32_7x7mm" 600 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666" 600 300 60 H I L C N N
+F4 "ATMEGA328PB-AU-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328PB-AU" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 600 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 600 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -400 500 200 -1300 0 1 0 f
 X PD3 1 300 -700 100 L 50 50 1 1 B
@@ -913,17 +913,17 @@ ENDDEF
 DEF ATMEGA32U4-AU U 0 40 Y Y 1 F N
 F0 "U" -400 1400 60 H V L C N N
 F1 "ATMEGA32U4-AU" 250 -150 60 V V C C N N
-F2 "digikey-footprints:TQFP-44_10x10mm" 200 200 60 H I L C N N
-F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 200 300 60 H I L C N N
-F4 "ATMEGA32U4-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATMEGA32U4-AU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATMEGA32U4-AU/ATMEGA32U4-AU-ND/1914602" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 44TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-44_10x10mm" 800 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 800 300 60 H I L C N N
+F4 "ATMEGA32U4-AU-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA32U4-AU" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 800 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA32U4-AU/ATMEGA32U4-AU-ND/1914602" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 44TQFP" 800 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -450 1350 350 -1850 0 1 0 f
 X PE6 1 -600 -1400 150 R 50 50 1 1 B
@@ -978,17 +978,17 @@ ENDDEF
 DEF ATSAMD21G18A-AUT U 0 40 Y Y 1 F N
 F0 "U" -400 1550 60 H V L C N N
 F1 "ATSAMD21G18A-AUT" 0 0 60 V V C C N N
-F2 "digikey-footprints:TQFP-48_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 200 300 60 H I L C N N
-F4 "ATSAMD21G18A-AUTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATSAMD21G18A-AUT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATSAMD21G18A-AUT/ATSAMD21G18A-AUTCT-ND/4878879" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 256KB FLASH 48TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-48_7x7mm" 800 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 800 300 60 H I L C N N
+F4 "ATSAMD21G18A-AUTCT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATSAMD21G18A-AUT" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 800 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATSAMD21G18A-AUT/ATSAMD21G18A-AUTCT-ND/4878879" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 256KB FLASH 48TQFP" 800 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 1500 400 -1300 0 1 0 f
 X PA00 1 -500 1100 100 R 50 50 1 1 B
@@ -1047,17 +1047,17 @@ ENDDEF
 DEF ATTINY45-20PU U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V L C N N
 F1 "ATTINY45-20PU" 250 200 60 V V R C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
-F4 "ATTINY45-20PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATTINY45-20PU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATTINY45-20PU/ATTINY45-20PU-ND/735465" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 4KB FLASH 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 500 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 300 60 H I L C N N
+F4 "ATTINY45-20PU-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATTINY45-20PU" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 500 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATTINY45-20PU/ATTINY45-20PU-ND/735465" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 4KB FLASH 8DIP" 500 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -200 200 200 -500 0 1 0 f
 X PB5 1 -300 -400 100 R 50 50 1 1 B
@@ -1076,17 +1076,17 @@ ENDDEF
 DEF ATTINY84A-PU U 0 40 Y Y 1 F N
 F0 "U" -250 500 60 H V L C N N
 F1 "ATTINY84A-PU" 250 450 60 V V R C N N
-F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/8183s.pdf" 200 300 60 H I L C N N
-F4 "ATTINY84A-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATTINY84A-PU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/8183s.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATTINY84A-PU/ATTINY84A-PU-ND/2774082" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 8KB FLASH 14DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-14_W3mm" 500 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/8183s.pdf" 500 300 60 H I L C N N
+F4 "ATTINY84A-PU-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATTINY84A-PU" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 500 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/8183s.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATTINY84A-PU/ATTINY84A-PU-ND/2774082" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 8KB FLASH 14DIP" 500 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -250 450 200 -750 0 1 0 f
 X VCC 1 100 600 150 D 50 50 1 1 W
@@ -1111,17 +1111,17 @@ ENDDEF
 DEF ATTINY85-20PU U 0 1 Y Y 1 F N
 F0 "U" -112 340 60 H V L C N N
 F1 "ATTINY85-20PU" 120 -450 60 H V L C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
-F4 "ATTINY85-20PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATTINY85-20PU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATTINY85-20PU/ATTINY85-20PU-ND/735469" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 8KB FLASH 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 500 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 300 60 H I L C N N
+F4 "ATTINY85-20PU-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATTINY85-20PU" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 500 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATTINY85-20PU/ATTINY85-20PU-ND/735469" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 8KB FLASH 8DIP" 500 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -100 300 200 -400 0 1 0 f
 X PB5 1 -200 -300 100 R 50 50 1 1 B
@@ -1140,17 +1140,17 @@ ENDDEF
 DEF ATTINY85-20SU U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V L C N N
 F1 "ATTINY85-20SU" 250 200 60 V V R C N N
-F2 "digikey-footprints:SOIC-8_W5.3mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
-F4 "ATTINY85-20SU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ATTINY85-20SU" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/ATTINY85-20SU/ATTINY85-20SU-ND/735470" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 8KB FLASH 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W5.3mm" 500 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 300 60 H I L C N N
+F4 "ATTINY85-20SU-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATTINY85-20SU" 500 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 500 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 500 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATTINY85-20SU/ATTINY85-20SU-ND/735470" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 8KB FLASH 8SOIC" 500 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 500 1200 60 H I L CNN "Status"
 DRAW
 S -200 200 200 -500 0 1 0 f
 X PB5 1 -300 -400 100 R 50 50 1 1 B
@@ -1169,17 +1169,17 @@ ENDDEF
 DEF PIC12F675-I_P U 0 40 Y Y 1 F N
 F0 "U" -200 450 60 H V L C N N
 F1 "PIC12F675-I_P" 500 -100 60 V V C C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011653" 200 300 60 H I L C N N
-F4 "PIC12F675-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC12F675-I/P" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011653" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC12F675-I-P/PIC12F675-I-P-ND/459171" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 1.75KB FLASH 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 900 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011653" 900 300 60 H I L C N N
+F4 "PIC12F675-I/P-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC12F675-I/P" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 900 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011653" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC12F675-I-P/PIC12F675-I-P-ND/459171" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 1.75KB FLASH 8DIP" 900 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -200 400 600 -600 0 1 0 f
 X VDD 1 300 500 100 D 50 50 1 1 W
@@ -1198,17 +1198,17 @@ ENDDEF
 DEF PIC12F683-I_P U 0 40 Y Y 1 F N
 F0 "U" -450 350 60 H V L C N N
 F1 "PIC12F683-I_P" 450 -200 60 V V C C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011813" 200 300 60 H I L C N N
-F4 "PIC12F683-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC12F683-I/P" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011813" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC12F683-I-P/PIC12F683-I-P-ND/613193" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 3.5KB FLASH 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-8_W7.62mm" 650 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011813" 650 300 60 H I L C N N
+F4 "PIC12F683-I/P-ND" 650 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC12F683-I/P" 650 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 650 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 650 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011813" 650 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC12F683-I-P/PIC12F683-I-P-ND/613193" 650 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 3.5KB FLASH 8DIP" 650 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 650 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 650 1200 60 H I L CNN "Status"
 DRAW
 S -450 300 350 -700 0 1 0 f
 X VDD 1 150 400 100 D 50 50 1 1 W
@@ -1227,17 +1227,17 @@ ENDDEF
 DEF PIC16F628A-I_P U 0 40 Y Y 1 F N
 F0 "U" -550 850 60 H V L C N N
 F1 "PIC16F628A-I_P" 550 750 60 V V R C N N
-F2 "digikey-footprints:DIP-18_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011915" 200 300 60 H I L C N N
-F4 "PIC16F628A-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC16F628A-I/P" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011915" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC16F628A-I-P/PIC16F628A-I-P-ND/529766" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 3.5KB FLASH 18DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-18_W7.62mm" 900 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011915" 900 300 60 H I L C N N
+F4 "PIC16F628A-I/P-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC16F628A-I/P" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 900 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011915" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC16F628A-I-P/PIC16F628A-I-P-ND/529766" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 3.5KB FLASH 18DIP" 900 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -550 800 600 -900 0 1 0 f
 X RA2/AN2/VREF 1 -700 700 150 R 50 50 1 1 B
@@ -1266,17 +1266,17 @@ ENDDEF
 DEF PIC16F690-I_P U 0 40 Y Y 1 F N
 F0 "U" -650 900 60 H V L C N N
 F1 "PIC16F690-I_P" 350 0 60 V V C C N N
-F2 "digikey-footprints:DIP-20_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023134" 200 300 60 H I L C N N
-F4 "PIC16F690-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC16F690-I/P" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023134" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC16F690-I-P/PIC16F690-I-P-ND/894267" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 7KB FLASH 20DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-20_W7.62mm" 900 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023134" 900 300 60 H I L C N N
+F4 "PIC16F690-I/P-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC16F690-I/P" 900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 900 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023134" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC16F690-I-P/PIC16F690-I-P-ND/894267" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 7KB FLASH 20DIP" 900 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 S -650 850 600 -950 0 1 0 f
 X VDD 1 500 1000 150 D 50 50 1 1 W
@@ -1307,17 +1307,17 @@ ENDDEF
 DEF PIC16F877A-I_P U 0 40 Y Y 1 F N
 F0 "U" -700 1350 60 H V L C N N
 F1 "PIC16F877A-I_P" 0 0 60 V V C C N N
-F2 "digikey-footprints:DIP-40_W15.24mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011789" 200 300 60 H I L C N N
-F4 "PIC16F877A-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC16F877A-I/P" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011789" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC16F877A-I-P/PIC16F877A-I-P-ND/446143" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 14KB FLASH 40DIP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-40_W15.24mm" 1200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011789" 1200 300 60 H I L C N N
+F4 "PIC16F877A-I/P-ND" 1200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC16F877A-I/P" 1200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1200 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 1200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011789" 1200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC16F877A-I-P/PIC16F877A-I-P-ND/446143" 1200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 14KB FLASH 40DIP" 1200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 1200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1200 1200 60 H I L CNN "Status"
 DRAW
 S -700 1300 800 -1200 0 1 0 f
 X ~MCLR~/VPP 1 -800 1200 100 R 50 40 1 1 I
@@ -1368,17 +1368,17 @@ ENDDEF
 DEF PIC18F4550-I_PT U 0 40 Y Y 1 F N
 F0 "U" -850 1400 60 H V L C N N
 F1 "PIC18F4550-I_PT" 500 -2700 60 V V L B N N
-F2 "digikey-footprints:TQFP-44_10x10mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en020587" 200 300 60 H I L C N N
-F4 "PIC18F4550-I/PT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC18F4550-I/PT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en020587" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC18F4550-I-PT/PIC18F4550-I-PT-ND/704581" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 8BIT 32KB FLASH 44TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-44_10x10mm" 1000 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en020587" 1000 300 60 H I L C N N
+F4 "PIC18F4550-I/PT-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC18F4550-I/PT" 1000 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 1000 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 1000 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en020587" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC18F4550-I-PT/PIC18F4550-I-PT-ND/704581" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 44TQFP" 1000 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -850 1350 550 -2750 0 1 0 f
 X RC7/RX/DT/SDO 1 -1000 1200 150 R 50 50 1 1 B
@@ -1433,17 +1433,17 @@ ENDDEF
 DEF PIC32MX795F512L-80I_PT U 0 40 Y Y 2 L N
 F0 "U" 50 50 60 H V L C N N
 F1 "PIC32MX795F512L-80I_PT" 1750 -2200 60 V V C C N N
-F2 "digikey-footprints:TQFP-100_12x12mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en545749" 200 300 60 H I L C N N
-F4 "PIC32MX795F512L-80I/PT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "PIC32MX795F512L-80I/PT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en545749" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/PIC32MX795F512L-80I-PT/PIC32MX795F512L-80I-PT-ND/2184451" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MCU 32BIT 512KB FLASH 100TQFP" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TQFP-100_12x12mm" 3900 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en545749" 3900 300 60 H I L C N N
+F4 "PIC32MX795F512L-80I/PT-ND" 3900 400 60 H I L CNN "Digi-Key_PN"
+F5 "PIC32MX795F512L-80I/PT" 3900 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 3900 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 3900 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en545749" 3900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/PIC32MX795F512L-80I-PT/PIC32MX795F512L-80I-PT-ND/2184451" 3900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 32BIT 512KB FLASH 100TQFP" 3900 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 3900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 3900 1200 60 H I L CNN "Status"
 DRAW
 S 50 0 3450 -4400 1 1 0 f
 X AERXER/RG15 1 -100 -100 150 R 50 50 1 1 B

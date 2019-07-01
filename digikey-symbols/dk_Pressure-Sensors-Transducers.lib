@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF MS560702BA03-50 U 0 40 Y Y 1 F N
 F0 "U" -300 350 50 H V L C N N
 F1 "MS560702BA03-50" 50 -450 50 H V L C N N
-F2 "digikey-footprints:SMD-8_5x3mm" 200 200 60 H I L C N N
-F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
-F4 "223-1198-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MS560702BA03-50" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/te-connectivity-measurement-specialties/MS560702BA03-50/223-1198-1-ND/4700921" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "BAROMETRIC PRESSURE SENSOR" 200 1000 60 H I L CNN "Description"
-F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SMD-8_5x3mm" 700 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 700 300 60 H I L C N N
+F4 "223-1198-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "MS560702BA03-50" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 700 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/MS560702BA03-50/223-1198-1-ND/4700921" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "BAROMETRIC PRESSURE SENSOR" 700 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 300 -400 0 1 0 f
 P 4 0 1 0 -300 0 -260 0 -260 -100 -300 -100 N
@@ -36,17 +36,17 @@ ENDDEF
 DEF MS580314BA01-00 U 0 30 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "MS580314BA01-00" 100 -300 60 H V R C N N
-F2 "digikey-footprints:Altimeter_MS580314BA" 200 200 60 H I L C N N
-F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
-F4 "223-1626-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MS580314BA01-00" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/te-connectivity-measurement-specialties/MS580314BA01-00/223-1626-5-ND/5277631" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "MINIATURE ALTIMETER MODULE" 200 1000 60 H I L CNN "Description"
-F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Altimeter_MS580314BA" 700 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 700 300 60 H I L C N N
+F4 "223-1626-5-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "MS580314BA01-00" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 700 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/MS580314BA01-00/223-1626-5-ND/5277631" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "MINIATURE ALTIMETER MODULE" 700 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 300 -200 0 1 0 f
 X SCLK 1 -400 200 100 R 50 50 1 1 I
@@ -65,17 +65,17 @@ ENDDEF
 DEF LPS25HBTR U 0 20 Y Y 1 F N
 F0 "U" -300 300 60 H V C C N N
 F1 "LPS25HBTR" 300 -400 60 H V L C N N
-F2 "digikey-footprints:LLGA-10_2.5x2.5mm_LPS25HB" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf" 200 300 60 H I L C N N
-F4 "497-15070-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LPS25HBTR" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LPS25HBTR/497-15070-1-ND/5043076" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC MEMS PRESSURE SENSOR 10HCLGA" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LLGA-10_2.5x2.5mm_LPS25HB" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf" 800 300 60 H I L C N N
+F4 "497-15070-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "LPS25HBTR" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LPS25HBTR/497-15070-1-ND/5043076" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MEMS PRESSURE SENSOR 10HCLGA" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 200 400 -300 0 1 0 f
 X VDD_IO 1 300 300 100 D 50 45 1 1 W
@@ -96,17 +96,17 @@ ENDDEF
 DEF BMP280 U 0 30 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "BMP280" 200 -250 60 H V L C N N
-F2 "digikey-footprints:LGA-8_2x2.5mm_BMP280" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf" 200 300 60 H I L C N N
-F4 "828-1064-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BMP280" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bosch-sensortec/BMP280/828-1064-1-ND/6136315" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR PRESSURE ABS" 200 1000 60 H I L CNN "Description"
-F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LGA-8_2x2.5mm_BMP280" 700 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf" 700 300 60 H I L C N N
+F4 "828-1064-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "BMP280" 700 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 700 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 700 700 60 H I L CNN "Family"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BMP280/828-1064-1-ND/6136315" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR PRESSURE ABS" 700 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S 300 300 -300 -200 0 1 0 f
 X GND 1 0 -300 100 U 50 50 1 1 W
@@ -125,17 +125,17 @@ ENDDEF
 DEF MPL115A1 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MPL115A1" 100 -400 60 H V L C N N
-F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 200 300 60 H I L C N N
-F4 "MPL115A1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPL115A1" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/MPL115A1/MPL115A1-ND/2508974" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC BAROMETER SPI DGTL MINI 8LGA" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TLGA-8_3x5" 600 200 60 H I L C N N
+F3 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 600 300 60 H I L C N N
+F4 "MPL115A1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPL115A1" 600 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 600 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 600 700 60 H I L CNN "Family"
+F8 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/MPL115A1/MPL115A1-ND/2508974" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BAROMETER SPI DGTL MINI 8LGA" 600 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 200 -300 0 1 0 f
 X VDD 1 0 400 100 D 50 50 1 1 W
@@ -154,17 +154,17 @@ ENDDEF
 DEF MPL3115A2 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MPL3115A2" 250 -300 60 H V L C N N
-F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
-F4 "MPL3115A2-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPL3115A2" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/MPL3115A2/MPL3115A2-ND/2817529" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TLGA-8_3x5" 800 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 800 300 60 H I L C N N
+F4 "MPL3115A2-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPL3115A2" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 800 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/MPL3115A2/MPL3115A2-ND/2817529" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ALTIMETER I2C VERSION 8LGA" 800 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 400 -200 0 1 0 f
 X VDD 1 0 400 100 D 50 50 1 1 W
@@ -183,17 +183,17 @@ ENDDEF
 DEF MPL3115A2R1 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MPL3115A2R1" 300 -300 60 H V L C N N
-F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
-F4 "MPL3115A2R1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPL3115A2R1" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/MPL3115A2R1/MPL3115A2R1CT-ND/4754470" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TLGA-8_3x5" 800 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 800 300 60 H I L C N N
+F4 "MPL3115A2R1CT-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPL3115A2R1" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 800 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/MPL3115A2R1/MPL3115A2R1CT-ND/4754470" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ALTIMETER I2C VERSION 8LGA" 800 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 400 -200 0 1 0 f
 X VDD 1 0 400 100 D 50 50 1 1 W

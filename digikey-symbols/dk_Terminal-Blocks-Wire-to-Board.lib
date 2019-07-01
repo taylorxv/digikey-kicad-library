@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 1935161 U 0 40 Y Y 1 F N
 F0 "J" -50 200 50 H V R C N N
 F1 "1935161" 50 -100 50 H V C C N N
-F2 "digikey-footprints:Terminal_Block_D1.3mm_P5mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf" 200 300 60 H I L C N N
-F4 "277-1667-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "1935161" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 2POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "Phoenix Contact" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Terminal_Block_D1.3mm_P5mm" 450 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf" 450 300 60 H I L C N N
+F4 "277-1667-ND" 450 400 60 H I L CNN "Digi-Key_PN"
+F5 "1935161" 450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 450 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf" 450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" 450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 2POS SIDE ENTRY 5MM PCB" 450 1000 60 H I L CNN "Description"
+F11 "Phoenix Contact" 450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 450 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 25 0 1 0 N
 C 100 0 25 0 1 0 N
@@ -35,17 +35,17 @@ ENDDEF
 DEF OSTTC020162 U 0 40 Y Y 1 F N
 F0 "J" -100 50 50 H V R C N N
 F1 "OSTTC020162" 50 -100 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x2_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2600-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC020162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC020162/ED2600-ND/614549" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 2POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x2_P5mm" 450 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 450 300 60 H I L C N N
+F4 "ED2600-ND" 450 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC020162" 450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 450 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC020162/ED2600-ND/614549" 450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 2POS SIDE ENTRY 5MM PCB" 450 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 450 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 25 1 1 0 N
 C 100 0 25 1 1 0 N
@@ -64,17 +64,17 @@ ENDDEF
 DEF OSTTC030162 U 0 40 Y Y 1 F N
 F0 "J" -100 50 50 H V R C N N
 F1 "OSTTC030162" 100 -100 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x3_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2601-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC030162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC030162/ED2601-ND/614550" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 3POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x3_P5mm" 550 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 550 300 60 H I L C N N
+F4 "ED2601-ND" 550 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC030162" 550 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 550 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 550 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 550 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC030162/ED2601-ND/614550" 550 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 3POS SIDE ENTRY 5MM PCB" 550 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 550 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 550 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 25 1 1 0 N
 C 100 0 25 1 1 0 N
@@ -97,17 +97,17 @@ ENDDEF
 DEF OSTTC040162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC040162" 150 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x4_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2602-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC040162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC040162/ED2602-ND/614551" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 4POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x4_P5mm" 650 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 650 300 60 H I L C N N
+F4 "ED2602-ND" 650 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC040162" 650 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 650 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 650 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 650 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC040162/ED2602-ND/614551" 650 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 4POS SIDE ENTRY 5MM PCB" 650 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 650 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 650 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -134,17 +134,17 @@ ENDDEF
 DEF OSTTC050162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC050162" 200 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x5_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2603-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC050162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC050162/ED2603-ND/614552" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 5POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x5_P5mm" 750 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 750 300 60 H I L C N N
+F4 "ED2603-ND" 750 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC050162" 750 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 750 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 750 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 750 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC050162/ED2603-ND/614552" 750 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 5POS SIDE ENTRY 5MM PCB" 750 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 750 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 750 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -175,17 +175,17 @@ ENDDEF
 DEF OSTTC060162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC060162" 250 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x6_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2604-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC060162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC060162/ED2604-ND/614553" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 6POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x6_P5mm" 850 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 850 300 60 H I L C N N
+F4 "ED2604-ND" 850 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC060162" 850 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 850 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 850 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC060162/ED2604-ND/614553" 850 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 6POS SIDE ENTRY 5MM PCB" 850 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 850 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 850 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -220,17 +220,17 @@ ENDDEF
 DEF OSTTC070162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC070162" 300 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x7_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2605-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC070162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC070162/ED2605-ND/614554" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 7POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x7_P5mm" 950 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 950 300 60 H I L C N N
+F4 "ED2605-ND" 950 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC070162" 950 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 950 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 950 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 950 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC070162/ED2605-ND/614554" 950 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 7POS SIDE ENTRY 5MM PCB" 950 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 950 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 950 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -269,17 +269,17 @@ ENDDEF
 DEF OSTTC080162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC080162" 350 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x8_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2606-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC080162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC080162/ED2606-ND/614555" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 8POS SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x8_P5mm" 1050 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 1050 300 60 H I L C N N
+F4 "ED2606-ND" 1050 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC080162" 1050 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 1050 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 1050 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 1050 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC080162/ED2606-ND/614555" 1050 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 8POS SIDE ENTRY 5MM PCB" 1050 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 1050 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1050 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -322,17 +322,17 @@ ENDDEF
 DEF OSTTC120162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC120162" 550 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x12_P5mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 300 60 H I L C N N
-F4 "ED2608-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC120162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC120162/ED2608-ND/614557" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 12P SIDE ENTRY 5MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x12_P5mm" 1450 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 1450 300 60 H I L C N N
+F4 "ED2608-ND" 1450 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC120162" 1450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 1450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 1450 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf" 1450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC120162/ED2608-ND/614557" 1450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 12P SIDE ENTRY 5MM PCB" 1450 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 1450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1450 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -391,17 +391,17 @@ ENDDEF
 DEF OSTTC022162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC022162" 50 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x2_P5.08MM" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2609-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC022162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 2P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x2_P5.08MM" 450 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 450 300 60 H I L C N N
+F4 "ED2609-ND" 450 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC022162" 450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 450 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" 450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 2P SIDE ENT 5.08MM PCB" 450 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 450 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -420,17 +420,17 @@ ENDDEF
 DEF OSTTC032162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC032162" 100 -200 50 H V C C N N
-F2 "digikey-footprints:TERM_BLOCK_1x3_P5.08MM" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2610-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC032162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC032162/ED2610-ND/614559" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 3P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:TERM_BLOCK_1x3_P5.08MM" 550 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 550 300 60 H I L C N N
+F4 "ED2610-ND" 550 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC032162" 550 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 550 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 550 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 550 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC032162/ED2610-ND/614559" 550 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 3P SIDE ENT 5.08MM PCB" 550 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 550 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 550 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -453,17 +453,17 @@ ENDDEF
 DEF OSTTC042162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 60 H V R C N N
 F1 "OSTTC042162" 150 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x4_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2611-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC042162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC042162/ED2611-ND/614560" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 4P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x4_P5.08mm" 650 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 650 300 60 H I L C N N
+F4 "ED2611-ND" 650 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC042162" 650 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 650 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 650 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 650 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC042162/ED2611-ND/614560" 650 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 4P SIDE ENT 5.08MM PCB" 650 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 650 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 650 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -490,17 +490,17 @@ ENDDEF
 DEF OSTTC052162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC052162" 200 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x5_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2612-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC052162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC052162/ED2612-ND/614561" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 5P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x5_P5.08mm" 750 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 750 300 60 H I L C N N
+F4 "ED2612-ND" 750 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC052162" 750 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 750 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 750 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 750 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC052162/ED2612-ND/614561" 750 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 5P SIDE ENT 5.08MM PCB" 750 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 750 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 750 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -531,17 +531,17 @@ ENDDEF
 DEF OSTTC062162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC062162" 250 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x6_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2613-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC062162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC062162/ED2613-ND/614562" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 6P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x6_P5.08mm" 850 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 850 300 60 H I L C N N
+F4 "ED2613-ND" 850 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC062162" 850 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 850 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 850 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 850 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC062162/ED2613-ND/614562" 850 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 6P SIDE ENT 5.08MM PCB" 850 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 850 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 850 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -576,17 +576,17 @@ ENDDEF
 DEF OSTTC072162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC072162" 300 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x7_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2614-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC072162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC072162/ED2614-ND/614563" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 7P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x7_P5.08mm" 950 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 950 300 60 H I L C N N
+F4 "ED2614-ND" 950 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC072162" 950 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 950 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 950 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 950 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC072162/ED2614-ND/614563" 950 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 7P SIDE ENT 5.08MM PCB" 950 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 950 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 950 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -625,17 +625,17 @@ ENDDEF
 DEF OSTTC082162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC082162" 350 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x8_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2615-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC082162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC082162/ED2615-ND/614564" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 8P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x8_P5.08mm" 1050 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1050 300 60 H I L C N N
+F4 "ED2615-ND" 1050 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC082162" 1050 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 1050 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 1050 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1050 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC082162/ED2615-ND/614564" 1050 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 8P SIDE ENT 5.08MM PCB" 1050 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 1050 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1050 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -678,17 +678,17 @@ ENDDEF
 DEF OSTTC102162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC102162" 450 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x10_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2616-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC102162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC102162/ED2616-ND/614565" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 10P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x10_P5.08mm" 1250 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1250 300 60 H I L C N N
+F4 "ED2616-ND" 1250 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC102162" 1250 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 1250 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 1250 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1250 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC102162/ED2616-ND/614565" 1250 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 10P SIDE ENT 5.08MM PCB" 1250 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 1250 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1250 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -739,17 +739,17 @@ ENDDEF
 DEF OSTTC122162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC122162" 550 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x12_P5.08mm" 200 200 60 H I L C N N
-F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 300 60 H I L C N N
-F4 "ED2617-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC122162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC122162/ED2617-ND/614566" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 12P SIDE ENT 5.08MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x12_P5.08mm" 1450 200 60 H I L C N N
+F3 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1450 300 60 H I L C N N
+F4 "ED2617-ND" 1450 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC122162" 1450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 1450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 1450 700 60 H I L CNN "Family"
+F8 "http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf" 1450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC122162/ED2617-ND/614566" 1450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 12P SIDE ENT 5.08MM PCB" 1450 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 1450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1450 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N
@@ -808,17 +808,17 @@ ENDDEF
 DEF OSTTC023162 U 0 40 Y Y 1 F N
 F0 "J" -100 -50 50 H V R C N N
 F1 "OSTTC023162" 50 -200 50 H V C C N N
-F2 "digikey-footprints:Term_Block_1x2_P10.16mm" 200 200 60 H I L C N N
-F3 "" 200 300 60 H I L C N N
-F4 "ED2653-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "OSTTC023162" 200 500 60 H I L CNN "MPN"
-F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
-F7 "Terminal Blocks - Wire to Board" 200 700 60 H I L CNN "Family"
-F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-shore-technology-inc/OSTTC023162/ED2653-ND/614602" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TERM BLK 2P SIDE ENT 10.16MM PCB" 200 1000 60 H I L CNN "Description"
-F11 "On Shore Technology Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:Term_Block_1x2_P10.16mm" 450 200 60 H I L C N N
+F3 "" 450 300 60 H I L C N N
+F4 "ED2653-ND" 450 400 60 H I L CNN "Digi-Key_PN"
+F5 "OSTTC023162" 450 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 450 600 60 H I L CNN "Category"
+F7 "Terminal Blocks - Wire to Board" 450 700 60 H I L CNN "Family"
+F8 "" 450 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-shore-technology-inc/OSTTC023162/ED2653-ND/614602" 450 900 60 H I L CNN "DK_Detail_Page"
+F10 "TERM BLK 2P SIDE ENT 10.16MM PCB" 450 1000 60 H I L CNN "Description"
+F11 "On Shore Technology Inc." 450 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 450 1200 60 H I L CNN "Status"
 DRAW
 C 0 -100 25 1 1 0 N
 C 100 -100 25 1 1 0 N

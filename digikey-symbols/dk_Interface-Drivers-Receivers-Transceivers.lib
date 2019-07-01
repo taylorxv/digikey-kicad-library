@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF SP3485EN-L_TR U 0 0 Y Y 1 F N
 F0 "U" -250 50 60 H V C C N N
 F1 "SP3485EN-L_TR" 100 -600 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "https://www.exar.com/content/document.ashx?id=639" 200 300 60 H I L C N N
-F4 "1016-1817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SP3485EN-L/TR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.exar.com/content/document.ashx?id=639" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxlinear-inc/SP3485EN-L-TR/1016-1817-1-ND/3586534" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX RS485 HALF DUPLEX 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "MaxLinear, Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 600 200 60 H I L C N N
+F3 "https://www.exar.com/content/document.ashx?id=639" 600 300 60 H I L C N N
+F4 "1016-1817-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "SP3485EN-L/TR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 600 700 60 H I L CNN "Family"
+F8 "https://www.exar.com/content/document.ashx?id=639" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxlinear-inc/SP3485EN-L-TR/1016-1817-1-ND/3586534" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX RS485 HALF DUPLEX 8SOIC" 600 1000 60 H I L CNN "Description"
+F11 "MaxLinear, Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C -50 -140 10 0 1 0 N
 C 10 -125 10 0 1 0 N
@@ -58,17 +58,17 @@ ENDDEF
 DEF SN65HVD230DR U 0 40 Y Y 1 F N
 F0 "U" -100 50 60 H V C C N N
 F1 "SN65HVD230DR" 200 -700 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 200 300 60 H I L C N N
-F4 "296-11654-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN65HVD230DR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN65HVD230DR/296-11654-1-ND/404366" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX CAN 1MBPS 3.3V 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 700 300 60 H I L C N N
+F4 "296-11654-1-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN65HVD230DR" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN65HVD230DR/296-11654-1-ND/404366" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX CAN 1MBPS 3.3V 8SOIC" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -200 0 300 -600 0 1 0 f
 X D 1 -300 -100 100 R 50 50 1 1 I
@@ -87,17 +87,17 @@ ENDDEF
 DEF SN75176BDR U 0 0 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "SN75176BDR" 100 -400 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 200 300 60 H I L C N N
-F4 "296-1275-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN75176BDR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN75176BDR/296-1275-1-ND/404925" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX DIFF BUSS 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 600 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 600 300 60 H I L C N N
+F4 "296-1275-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN75176BDR" 600 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 600 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 600 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN75176BDR/296-1275-1-ND/404925" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX DIFF BUSS 8SOIC" 600 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 C -50 -160 10 0 1 0 N
 C 10 -225 10 0 1 0 N
@@ -144,17 +144,17 @@ ENDDEF
 DEF MAX232N U 0 40 Y Y 1 F N
 F0 "U" -350 450 60 H V C C N N
 F1 "MAX232N" 0 -500 60 V V L C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 200 300 60 H I L C N N
-F4 "296-1402-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX232N" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC DUAL EIA-232 DRVR/RCVR 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 800 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 800 300 60 H I L C N N
+F4 "296-1402-5-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX232N" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 800 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DUAL EIA-232 DRVR/RCVR 16-DIP" 800 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -400 400 400 -600 0 1 0 f
 X C1+ 1 -500 300 100 R 50 50 1 1 P
@@ -181,17 +181,17 @@ ENDDEF
 DEF TFP401APZP U 0 40 Y Y 2 L N
 F0 "U" -400 1900 60 H V C C N N
 F1 "TFP401APZP" -100 0 60 V V C C N N
-F2 "digikey-footprints:HTQFP-100_14x14mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 200 300 60 H I L C N N
-F4 "296-9991-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TFP401APZP" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TFP401APZP/296-9991-ND/380157" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PANELBUS DVI REC 100-HTQFP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:HTQFP-100_14x14mm" 700 200 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 700 300 60 H I L C N N
+F4 "296-9991-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "TFP401APZP" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TFP401APZP/296-9991-ND/380157" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PANELBUS DVI REC 100-HTQFP" 700 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -500 1800 300 -2100 1 1 0 f
 X DFO 1 -600 1700 100 R 50 50 1 1 I
@@ -304,17 +304,17 @@ ENDDEF
 DEF MAX3232CPE_ U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "MAX3232CPE_" 0 -300 60 V V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 300 60 H I L C N N
-F4 "MAX3232CPE+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX3232CPE+" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX3232CPE-/MAX3232CPE--ND/1513011" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX RS-232 LP 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 800 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 800 300 60 H I L C N N
+F4 "MAX3232CPE+-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX3232CPE+" 800 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 800 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 800 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX3232CPE-/MAX3232CPE--ND/1513011" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX RS-232 LP 16-DIP" 800 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 200 400 -800 0 1 0 f
 X C1+ 1 -400 -400 100 R 50 50 1 1 P
@@ -341,17 +341,17 @@ ENDDEF
 DEF MCP2551-I_SN U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MCP2551-I_SN" 100 -300 60 H V L C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797" 200 300 60 H I L C N N
-F4 "MCP2551-I/SN-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MCP2551-I/SN" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/MCP2551-I-SN/MCP2551-I-SN-ND/509452" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TRANSCEIVER CAN HI-SPD 8-SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 700 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797" 700 300 60 H I L C N N
+F4 "MCP2551-I/SN-ND" 700 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP2551-I/SN" 700 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 700 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 700 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797" 700 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP2551-I-SN/MCP2551-I-SN-ND/509452" 700 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TRANSCEIVER CAN HI-SPD 8-SOIC" 700 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 700 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 700 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 300 -200 0 1 0 f
 X TXD 1 -400 200 100 R 50 50 1 1 I

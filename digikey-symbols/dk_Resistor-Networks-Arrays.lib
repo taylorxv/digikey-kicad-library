@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 4609X-101-103LF RN 0 40 Y Y 1 F N
 F0 "RN" -270 810 60 H V L C N N
 F1 "4609X-101-103LF" 0 -820 60 H V C C N N
-F2 "digikey-footprints:SIP-9_P2.54mm" 200 200 60 H I L C N N
-F3 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 300 60 V I L C N N
-F4 "4609X-101-103LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "4609X-101-103LF" 200 500 60 H I L CNN "MPN"
-F6 "Resistors" 200 600 60 H I L CNN "Category"
-F7 "Resistor Networks, Arrays" 200 700 60 H I L CNN "Family"
-F8 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bourns-inc/4609X-101-103LF/4609X-101-103LF-ND/2634616" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "RES ARRAY 8 RES 10K OHM 9SIP" 200 1000 60 H I L CNN "Description"
-F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SIP-9_P2.54mm" 640 200 60 H I L C N N
+F3 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 640 300 60 V I L C N N
+F4 "4609X-101-103LF-ND" 640 400 60 H I L CNN "Digi-Key_PN"
+F5 "4609X-101-103LF" 640 500 60 H I L CNN "MPN"
+F6 "Resistors" 640 600 60 H I L CNN "Category"
+F7 "Resistor Networks, Arrays" 640 700 60 H I L CNN "Family"
+F8 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 640 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bourns-inc/4609X-101-103LF/4609X-101-103LF-ND/2634616" 640 900 60 H I L CNN "DK_Detail_Page"
+F10 "RES ARRAY 8 RES 10K OHM 9SIP" 640 1000 60 H I L CNN "Description"
+F11 "Bourns Inc." 640 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 640 1200 60 H I L CNN "Status"
 DRAW
 S -260 -775 240 775 0 1 0 f
 P 2 0 1 0 -260 0 -185 0 N

@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF LTA-1000HR D 0 0 Y Y 1 F N
 F0 "D" -150 150 60 H V C C N N
 F1 "LTA-1000HR" 0 -1100 60 H V C C N N
-F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf" 200 300 60 H I L C N N
-F4 "160-1066-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTA-1000HR" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTA-1000HR/160-1066-ND/153273" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "LED BAR GRAPH 10-SEGMENT RED" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 600 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf" 600 300 60 H I L C N N
+F4 "160-1066-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTA-1000HR" 600 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 600 600 60 H I L CNN "Category"
+F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTA-1000HR/160-1066-ND/153273" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BAR GRAPH 10-SEGMENT RED" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -1000 0 1 0 f
 P 2 0 1 0 -200 -800 -125 -800 N
@@ -127,17 +127,17 @@ ENDDEF
 DEF LTA-1000G D 0 0 Y Y 1 F N
 F0 "D" -150 150 60 H V C C N N
 F1 "LTA-1000G" 0 -1100 60 H V C C N N
-F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0809/A1000G.pdf" 200 300 60 H I L C N N
-F4 "160-1067-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTA-1000G" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0809/A1000G.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTA-1000G/160-1067-ND/153278" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "LED BAR GRAPH 10-SEGMENT GREEN" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 600 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0809/A1000G.pdf" 600 300 60 H I L C N N
+F4 "160-1067-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTA-1000G" 600 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 600 600 60 H I L CNN "Category"
+F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0809/A1000G.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTA-1000G/160-1067-ND/153278" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BAR GRAPH 10-SEGMENT GREEN" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -1000 0 1 0 f
 P 2 0 1 0 -200 -800 -125 -800 N
@@ -248,17 +248,17 @@ ENDDEF
 DEF LTA-1000Y D 0 0 Y Y 1 F N
 F0 "D" -150 150 60 H V C C N N
 F1 "LTA-1000Y" 0 -1100 60 H V C C N N
-F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTA-1000Y.pdf" 200 300 60 H I L C N N
-F4 "160-1068-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTA-1000Y" 200 500 60 H I L CNN "MPN"
-F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
-F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTA-1000Y.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTA-1000Y/160-1068-ND/153283" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "LED BAR GRAPH 10-SEGMENT YELLOW" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LED_Bar_Graph_LTA-1000" 600 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTA-1000Y.pdf" 600 300 60 H I L C N N
+F4 "160-1068-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTA-1000Y" 600 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 600 600 60 H I L CNN "Category"
+F7 "LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs" 600 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTA-1000Y.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTA-1000Y/160-1068-ND/153283" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BAR GRAPH 10-SEGMENT YELLOW" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -1000 0 1 0 f
 P 2 0 1 0 -200 -800 -125 -800 N

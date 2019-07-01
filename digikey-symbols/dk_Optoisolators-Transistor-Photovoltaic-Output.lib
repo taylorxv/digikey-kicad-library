@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF 4N25 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "4N25" 0 -325 60 H V C C N N
-F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf" 200 300 60 H I L C N N
-F4 "160-1300-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "4N25" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/4N25/160-1300-5-ND/385762" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 2.5KV TRANS W/BASE 6DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-6_W7.62mm" 600 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf" 600 300 60 H I L C N N
+F4 "160-1300-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "4N25" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/4N25/160-1300-5-ND/385762" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 2.5KV TRANS W/BASE 6DIP" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -250 0 1 0 f
 P 2 0 1 0 -100 -25 -50 -25 N
@@ -42,17 +42,17 @@ ENDDEF
 DEF 4N35 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "4N35" 0 -325 60 H V C C N N
-F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0012/4N3X%20Series%201115.pdf" 200 300 60 H I L C N N
-F4 "160-1304-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "4N35" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0012/4N3X%20Series%201115.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/4N35/160-1304-5-ND/385766" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 3.55KV TRANS W/BASE 6DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-6_W7.62mm" 600 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0012/4N3X%20Series%201115.pdf" 600 300 60 H I L C N N
+F4 "160-1304-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "4N35" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0012/4N3X%20Series%201115.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/4N35/160-1304-5-ND/385766" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 3.55KV TRANS W/BASE 6DIP" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -250 0 1 0 f
 P 2 0 1 0 -100 -25 -50 -25 N
@@ -78,17 +78,17 @@ ENDDEF
 DEF LTV-356T U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "LTV-356T" 0 -225 60 H V C C N N
-F2 "digikey-footprints:SMD-4_4.4x3.85mm_P2.54mm" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf" 200 300 60 V I L C N N
-F4 "160-1337-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTV-356T" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTV-356T/160-1337-1-ND/385805" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISOLATOR 3.75KV TRANS 4-SOP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SMD-4_4.4x3.85mm_P2.54mm" 600 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf" 600 300 60 V I L C N N
+F4 "160-1337-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTV-356T" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTV-356T/160-1337-1-ND/385805" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLATOR 3.75KV TRANS 4-SOP" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -150 0 1 0 f
 P 2 0 1 0 -100 -25 -50 -25 N
@@ -111,17 +111,17 @@ ENDDEF
 DEF LTV-817 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "LTV-817" 0 -225 60 H V C C N N
-F2 "digikey-footprints:DIP-4_W7.62mm" 200 200 60 V I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf" 200 300 60 V I L C N N
-F4 "160-1366-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTV-817" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTV-817/160-1366-5-ND/385836" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISOLATR 5KV TRANSISTOR 4-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-4_W7.62mm" 600 200 60 V I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf" 600 300 60 V I L C N N
+F4 "160-1366-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTV-817" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTV-817/160-1366-5-ND/385836" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLATR 5KV TRANSISTOR 4-DIP" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -150 0 1 0 f
 P 2 0 1 0 -100 -25 -50 -25 N
@@ -144,17 +144,17 @@ ENDDEF
 DEF LTV-847 U 0 40 Y Y 1 F N
 F0 "U" 0 450 60 H V C C N N
 F1 "LTV-847" 0 -575 60 H V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-817_827_847(M,S,S_TA1).pdf" 200 300 60 V I L C N N
-F4 "160-1370-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTV-847" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-817_827_847(M,S,S_TA1).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTV-847/160-1370-5-ND/385840" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISOLTR 5KV 4CH TRANS 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:DIP-16_W7.62mm" 600 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-817_827_847(M,S,S_TA1).pdf" 600 300 60 V I L C N N
+F4 "160-1370-5-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTV-847" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-817_827_847(M,S,S_TA1).pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTV-847/160-1370-5-ND/385840" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLTR 5KV 4CH TRANS 16-DIP" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 400 200 -500 0 1 0 f
 P 2 0 1 0 -125 -375 -75 -375 N
@@ -213,17 +213,17 @@ ENDDEF
 DEF LTV-816S-TA1 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "LTV-816S-TA1" 0 -225 60 H V C C N N
-F2 "digikey-footprints:SMD-4_4.6x7.62mm_P2.54mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf" 200 300 60 V I L C N N
-F4 "160-1892-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTV-816S-TA1" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTV-816S-TA1/160-1892-1-ND/3306438" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISOLATR 5KV TRANSISTOR 4-SMD" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SMD-4_4.6x7.62mm_P2.54mm" 600 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf" 600 300 60 V I L C N N
+F4 "160-1892-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTV-816S-TA1" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTV-816S-TA1/160-1892-1-ND/3306438" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLATR 5KV TRANSISTOR 4-SMD" 600 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -150 150 150 -150 0 1 0 f
 P 2 0 1 0 -100 -25 -50 -25 N
@@ -246,17 +246,17 @@ ENDDEF
 DEF ILD207T U 0 40 Y Y 1 F N
 F0 "U" 0 350 60 H V C C N N
 F1 "ILD207T" 0 -275 60 H V C C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.vishay.com/docs/83647/ild205t.pdf" 200 300 60 V I L C N N
-F4 "751-1310-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ILD207T" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Transistor, Photovoltaic Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.vishay.com/docs/83647/ild205t.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/vishay-semiconductor-opto-division/ILD207T/751-1310-1-ND/1731615" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISOLTR 4KV 2CH TRANS 8-SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Vishay Semiconductor Opto Division" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:SOIC-8_W3.9mm" 600 200 60 H I L C N N
+F3 "http://www.vishay.com/docs/83647/ild205t.pdf" 600 300 60 V I L C N N
+F4 "751-1310-1-ND" 600 400 60 H I L CNN "Digi-Key_PN"
+F5 "ILD207T" 600 500 60 H I L CNN "MPN"
+F6 "Isolators" 600 600 60 H I L CNN "Category"
+F7 "Optoisolators - Transistor, Photovoltaic Output" 600 700 60 H I L CNN "Family"
+F8 "http://www.vishay.com/docs/83647/ild205t.pdf" 600 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-semiconductor-opto-division/ILD207T/751-1310-1-ND/1731615" 600 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLTR 4KV 2CH TRANS 8-SOIC" 600 1000 60 H I L CNN "Description"
+F11 "Vishay Semiconductor Opto Division" 600 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 600 1200 60 H I L CNN "Status"
 DRAW
 S -200 300 200 -200 0 1 0 f
 P 2 0 1 0 -125 -75 -75 -75 N

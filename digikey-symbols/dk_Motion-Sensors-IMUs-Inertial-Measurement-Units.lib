@@ -6,17 +6,17 @@ EESchema-LIBRARY Version 2.3
 DEF MPU-6050_NRND U 0 40 Y Y 1 F N
 F0 "U" -402 642 60 H V L C N N
 F1 "MPU-6050_NRND" 18 -648 60 H V L C N N
-F2 "digikey-footprints:QFN-24-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" 200 300 60 H I L C N N
-F4 "1428-1007-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPU-6050" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/tdk-invensense/MPU-6050/1428-1007-1-ND/4038010" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO 3-AXIS I2C 24QFN" 200 1000 60 H I L CNN "Description"
-F11 "TDK InvenSense" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:QFN-24-1EP_4x4mm" 900 200 60 H I L C N N
+F3 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" 900 300 60 H I L C N N
+F4 "1428-1007-1-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPU-6050" 900 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 900 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 900 700 60 H I L CNN "Family"
+F8 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/tdk-invensense/MPU-6050/1428-1007-1-ND/4038010" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO 3-AXIS I2C 24QFN" 900 1000 60 H I L CNN "Description"
+F11 "TDK InvenSense" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Not For New Designs" 900 1200 60 H I L CNN "Status"
 DRAW
 X CLKIN 1 -500 500 100 R 50 50 1 0 I
 X NC 2 -400 -500 100 R 50 50 1 0 N N
@@ -51,17 +51,17 @@ ENDDEF
 DEF MPU-9250_Obsolete U 0 40 Y Y 1 F N
 F0 "U" -704 446 60 H V L C N N
 F1 "MPU-9250_Obsolete" -174 -846 60 H V L C N N
-F2 "digikey-footprints:QFN-24-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 200 300 60 H I L C N N
-F4 "1428-1019-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPU-9250" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/tdk-invensense/MPU-9250/1428-1019-1-ND/4626450" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO/MAG I2C/SPI 24QFN" 200 1000 60 H I L CNN "Description"
-F11 "TDK InvenSense" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:QFN-24-1EP_3x3mm" 500 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 500 300 60 H I L C N N
+F4 "1428-1019-1-ND" 500 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPU-9250" 500 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 500 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 500 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 500 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/tdk-invensense/MPU-9250/1428-1019-1-ND/4626450" 500 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO/MAG I2C/SPI 24QFN" 500 1000 60 H I L CNN "Description"
+F11 "TDK InvenSense" 500 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 500 1200 60 H I L CNN "Status"
 DRAW
 X NC 2 -700 -300 100 R 50 50 1 0 N N
 X NC 3 -700 -400 100 R 50 50 1 0 N N
@@ -97,17 +97,17 @@ ENDDEF
 DEF LSM303CTR U 0 40 Y Y 1 F N
 F0 "U" -450 550 60 H V C C N N
 F1 "LSM303CTR" -183 -149 60 H V L C N N
-F2 "digikey-footprints:LGA-12_9x9mm_LSM303C" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 200 300 60 H I L C N N
-F4 "497-14085-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LSM303CTR" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LSM303CTR/497-14085-1-ND/4499524" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/MAG I2C/SPI 12LGA" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LGA-12_9x9mm_LSM303C" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 800 300 60 H I L C N N
+F4 "497-14085-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "LSM303CTR" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LSM303CTR/497-14085-1-ND/4499524" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/MAG I2C/SPI 12LGA" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -700 500 400 -100 0 1 0 f
 X SCL/SPC 1 -800 400 100 R 50 50 1 1 I
@@ -130,17 +130,17 @@ ENDDEF
 DEF LSM9DS1TR U 0 40 Y Y 1 F N
 F0 "U" -501 739 60 H V L C N N
 F1 "LSM9DS1TR" 227 -453 60 H V L C N N
-F2 "digikey-footprints:LGA-24_3x3.5mm_LSM9DS1" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" 200 300 60 H I L C N N
-F4 "497-14946-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LSM9DS1TR" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LSM9DS1TR/497-14946-1-ND/4988079" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO/MAG I2C/SPI 24LGA" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LGA-24_3x3.5mm_LSM9DS1" 900 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" 900 300 60 H I L C N N
+F4 "497-14946-1-ND" 900 400 60 H I L CNN "Digi-Key_PN"
+F5 "LSM9DS1TR" 900 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 900 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 900 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" 900 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LSM9DS1TR/497-14946-1-ND/4988079" 900 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO/MAG I2C/SPI 24LGA" 900 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 900 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 900 1200 60 H I L CNN "Status"
 DRAW
 X VDDIO 1 -200 800 100 D 50 50 1 0 W
 X SCL/SPC 2 -600 300 100 R 50 50 1 0 I
@@ -175,17 +175,17 @@ ENDDEF
 DEF LSM6DS3TR U 0 40 Y Y 1 F N
 F0 "U" -308 436 60 H V L C N N
 F1 "LSM6DS3TR" 118 -353 60 H V L C N N
-F2 "digikey-footprints:LGA-14L_2.5x3mm__LSM6DS3" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf" 200 300 60 H I L C N N
-F4 "497-15383-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LSM6DS3TR" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LSM6DS3TR/497-15383-1-ND/5180534" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO I2C/SPI 14VFLGA" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LGA-14L_2.5x3mm__LSM6DS3" 800 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf" 800 300 60 H I L C N N
+F4 "497-15383-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "LSM6DS3TR" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 800 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LSM6DS3TR/497-15383-1-ND/5180534" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO I2C/SPI 14VFLGA" 800 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 X SDO/SA0 1 500 300 100 L 50 50 1 0 O
 X SDx 2 500 200 100 L 50 50 1 0 O
@@ -210,17 +210,17 @@ ENDDEF
 DEF BMI160 U 0 40 Y Y 1 F N
 F0 "U" -300 350 50 H V L C N N
 F1 "BMI160" 150 -400 50 H V L C N N
-F2 "digikey-footprints:BMI160" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf" 200 300 60 H I L C N N
-F4 "828-1057-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BMI160" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bosch-sensortec/BMI160/828-1057-1-ND/6136308" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO I2C/SPI 14LGA" 200 1000 60 H I L CNN "Description"
-F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:BMI160" 800 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf" 800 300 60 H I L C N N
+F4 "828-1057-1-ND" 800 400 60 H I L CNN "Digi-Key_PN"
+F5 "BMI160" 800 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 800 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 800 700 60 H I L CNN "Family"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf" 800 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BMI160/828-1057-1-ND/6136308" 800 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO I2C/SPI 14LGA" 800 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 800 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 800 1200 60 H I L CNN "Status"
 DRAW
 S -300 300 400 -350 0 1 0 f
 X SDO 1 500 200 100 L 50 50 1 1 O
@@ -245,17 +245,17 @@ ENDDEF
 DEF BNO055 U 0 40 Y Y 1 F N
 F0 "U" -600 550 50 H V L C N N
 F1 "BNO055" -50 -50 50 V V C C N N
-F2 "digikey-footprints:LGA-28_5.2x3.8mm_BNO0055" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BNO055-DS000.pdf" 200 300 60 H I L C N N
-F4 "828-1058-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BNO055" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BNO055-DS000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bosch-sensortec/BNO055/828-1058-1-ND/6136309" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IMU ACCEL/GYRO/MAG I2C 28LGA" 200 1000 60 H I L CNN "Description"
-F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F2 "digikey-footprints:LGA-28_5.2x3.8mm_BNO0055" 1000 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BNO055-DS000.pdf" 1000 300 60 H I L C N N
+F4 "828-1058-1-ND" 1000 400 60 H I L CNN "Digi-Key_PN"
+F5 "BNO055" 1000 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 1000 600 60 H I L CNN "Category"
+F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 1000 700 60 H I L CNN "Family"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BNO055-DS000.pdf" 1000 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BNO055/828-1058-1-ND/6136309" 1000 900 60 H I L CNN "DK_Detail_Page"
+F10 "IMU ACCEL/GYRO/MAG I2C 28LGA" 1000 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 1000 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 1000 1200 60 H I L CNN "Status"
 DRAW
 S -600 500 600 -700 0 1 0 f
 X PIN1 1 -600 -400 100 R 50 50 1 1 N N
